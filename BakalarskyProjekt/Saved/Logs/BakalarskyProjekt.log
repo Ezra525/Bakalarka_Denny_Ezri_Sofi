@@ -4905,3 +4905,98 @@ Sampler Limit: 32
 [2025.03.07-22.08.24:536][544]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.03.07-22.08.24:536][544]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.03.07-22.08.24:537][544]AssetCheck: /Game/_BachelorsProject/Levels/gameplaymechanics Validating asset
+[2025.03.07-22.11.21:572][870]Cmd: TRANSACTION UNDO
+[2025.03.07-22.11.21:572][870]LogEditorTransaction: Undo Move Elements
+[2025.03.07-22.12.14:266][964]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2025.03.07-22.14.05:621][ 41]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13485.680664
+[2025.03.07-22.14.05:822][ 53]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.07-22.14.05:822][ 53]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13485.862305, Update Interval: 309.924622
+[2025.03.07-22.16.34:699][451]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2025.03.07-22.16.35:532][451]LogSlate: Window 'Save Content' being destroyed
+[2025.03.07-22.16.35:547][451]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.07-22.16.35:709][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.03.07-22.16.35:739][451]LogSavePackage: Moving output files for package: /Game/_BachelorsProject/Levels/gameplaymechanics
+[2025.03.07-22.16.35:739][451]LogSavePackage: Moving '../../../../../../Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Saved/gameplaymechanicsD4437A104C0B51B90D891E837E0BF8D1.tmp' to '../../../../../../Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Levels/gameplaymechanics.umap'
+[2025.03.07-22.16.35:756][451]LogFileHelpers: Saving map 'gameplaymechanics' took 0.107
+[2025.03.07-22.16.35:792][451]LogFileHelpers: InternalPromptForCheckoutAndSave took 245.242 ms (total: 5.83 sec)
+[2025.03.07-22.16.35:882][451]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.07-22.16.35:882][451]LogContentValidation: Enabled validators:
+[2025.03.07-22.16.35:882][451]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.07-22.16.35:882][451]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.07-22.16.35:882][451]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.07-22.16.35:882][451]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.07-22.16.35:882][451]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.07-22.16.35:882][451]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.07-22.16.35:882][451]AssetCheck: /Game/_BachelorsProject/Levels/gameplaymechanics Validating asset
+[2025.03.07-22.16.36:657][492]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.07-22.16.36:674][492]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.07-22.16.36:675][492]LogPlayLevel: Creating play world package: /Game/_BachelorsProject/Levels/UEDPIE_0_gameplaymechanics
+[2025.03.07-22.16.36:682][492]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007908s)
+[2025.03.07-22.16.36:682][492]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics to /Game/_BachelorsProject/Levels/UEDPIE_0_gameplaymechanics.gameplaymechanics (0.007973s)
+[2025.03.07-22.16.36:710][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.03.07-22.16.36:712][492]LogChaosDD: Creating Chaos Debug Draw Scene for world gameplaymechanics
+[2025.03.07-22.16.36:714][492]LogPlayLevel: PIE: World Init took: (0.002369s)
+[2025.03.07-22.16.36:715][492]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2025.03.07-22.16.36:715][492]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.07-22.16.36:715][492]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.07-22.16.36:715][492]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.07-22.16.36:715][492]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.07-22.16.36:715][492]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.07-22.16.36:715][492]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.07-22.16.36:715][492]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.07-22.16.36:715][492]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.07-22.16.36:715][492]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.07-22.16.36:715][492]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.07-22.16.36:715][492]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.07-22.16.36:719][492]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.07-22.16.36:768][492]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.03.07-22.16.36:769][492]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.07-22.16.36:769][492]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.07-22.16.36:769][492]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.07-22.16.36:770][492]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2025.03.07-22.16.36:770][492]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2025.03.07-22.16.36:772][492]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2025.03.07-22.16.36:772][492]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2025.03.07-22.16.36:772][492]LogInit: FAudioDevice initialized with ID 29.
+[2025.03.07-22.16.36:772][492]LogAudio: Display: Audio Device (ID: 29) registered with world 'gameplaymechanics'.
+[2025.03.07-22.16.36:772][492]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2025.03.07-22.16.36:776][492]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.07-22.16.36:781][492]LogWorld: Bringing World /Game/_BachelorsProject/Levels/UEDPIE_0_gameplaymechanics.gameplaymechanics up for play (max tick rate 60) at 2025.03.07-23.16.36
+[2025.03.07-22.16.36:781][492]LogWorld: Bringing up level for play took: 0.005323
+[2025.03.07-22.16.36:785][492]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2025.03.07-22.16.36:789][492]PIE: Server logged in
+[2025.03.07-22.16.36:790][492]PIE: Play in editor total start time 0.116 seconds.
+[2025.03.07-22.17.27:587][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.07-22.17.27:587][300]LogWorld: BeginTearingDown for /Game/_BachelorsProject/Levels/UEDPIE_0_gameplaymechanics
+[2025.03.07-22.17.27:587][300]LogWorld: UWorld::CleanupWorld for gameplaymechanics, bSessionEnded=true, bCleanupResources=true
+[2025.03.07-22.17.27:589][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.07-22.17.27:595][300]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.07-22.17.27:600][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.07-22.17.27:625][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.07-22.17.27:625][300]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2025.03.07-22.17.27:626][300]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2025.03.07-22.17.27:628][300]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2025.03.07-22.17.27:638][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.03.07-22.17.27:730][301]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2025.03.07-22.17.58:358][ 10]Cmd: TRANSACTION UNDO
+[2025.03.07-22.17.58:358][ 10]LogEditorTransaction: Undo Move Elements
+[2025.03.07-22.20.02:422][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2025.03.07-22.20.03:469][  8]LogSlate: Window 'Save Content' being destroyed
+[2025.03.07-22.20.03:514][  8]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.07-22.20.03:674][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.03.07-22.20.03:703][  8]LogSavePackage: Moving output files for package: /Game/_BachelorsProject/Levels/gameplaymechanics
+[2025.03.07-22.20.03:704][  8]LogSavePackage: Moving '../../../../../../Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Saved/gameplaymechanics26F5AB114FCA039B4B918986CAA45685.tmp' to '../../../../../../Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Levels/gameplaymechanics.umap'
+[2025.03.07-22.20.03:720][  8]LogFileHelpers: Saving map 'gameplaymechanics' took 0.106
+[2025.03.07-22.20.03:735][  8]LogFileHelpers: InternalPromptForCheckoutAndSave took 220.516 ms (total: 6.05 sec)
+[2025.03.07-22.20.03:841][  8]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.07-22.20.03:841][  8]LogContentValidation: Enabled validators:
+[2025.03.07-22.20.03:841][  8]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.07-22.20.03:841][  8]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.07-22.20.03:841][  8]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.07-22.20.03:841][  8]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.07-22.20.03:841][  8]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.07-22.20.03:841][  8]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.07-22.20.03:841][  8]AssetCheck: /Game/_BachelorsProject/Levels/gameplaymechanics Validating asset
+[2025.03.07-22.20.04:095][ 21]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13844.192383
+[2025.03.07-22.20.04:296][ 33]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.07-22.20.04:296][ 33]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13844.371094, Update Interval: 310.768768
