@@ -5,6 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Materials/PostProcess/PP_FishEye.uasset",
+				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/6P/9N841I51ABTA3S8XTAC220.uasset",
+				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Materials/PostProcess/PPI_FishEye.uasset",
+				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Materials/PostProcess/PP_Ripple.uasset",
+				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Materials/PostProcess/PPI_Ripple.uasset",
+				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Materials/PostProcess/PP_OceanFloor.uasset",
+				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Materials/PostProcess/PPI_OceanFloor.uasset",
+				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Materials/M_Electricity.uasset",
+				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Niagara/NS_ReactiveElectricity.uasset",
+				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/Turret/Bullet/BP_TurretBullet.uasset",
+				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/Turret/BP_Turret.uasset",
+				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HX/2GYNBUYN2WFY0MJWDXDH83.uasset",
 				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/ThirdPerson/Animations/BS_ParazitBlendSpace.uasset",
 				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/ThirdPerson/Animations/ABP_ParazitAnimationBlueprint.uasset",
@@ -58,15 +71,7 @@
 				"C:/Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/BP_doorKey.uasset",
 				"C:/Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/NU/QSABRSR748YHAUDSSR129W.uasset",
 				"C:/Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/SpecificDoors/BP_door1.uasset",
-				"C:/Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/BP_door_Child.uasset",
-				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Materials/PostProcess/PP_FishEye.uasset",
-				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/6P/9N841I51ABTA3S8XTAC220.uasset",
-				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Materials/PostProcess/PPI_FishEye.uasset",
-				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Materials/PostProcess/PP_Ripple.uasset",
-				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Materials/PostProcess/PPI_Ripple.uasset",
-				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Materials/PostProcess/PP_OceanFloor.uasset",
-				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Materials/PostProcess/PPI_OceanFloor.uasset"
+				"C:/Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/BP_door_Child.uasset"
 			]
 		}
 	]
