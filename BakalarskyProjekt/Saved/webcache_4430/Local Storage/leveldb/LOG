@@ -1,2 +1,3 @@
-2025/04/11-23:39:51.972 4004 Creating DB C:/Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2025/04/11-23:39:52.022 4004 Reusing MANIFEST C:/Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/04/12-01:10:49.123 22c8 Reusing MANIFEST C:/Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/04/12-01:10:49.125 22c8 Recovering log #3
+2025/04/12-01:10:49.126 22c8 Reusing old log C:/Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Saved/webcache_4430\Local Storage\leveldb/000003.log 
