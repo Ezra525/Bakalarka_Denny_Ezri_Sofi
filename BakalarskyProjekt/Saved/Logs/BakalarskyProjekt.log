@@ -4019,3 +4019,358 @@ Script Stack (2 frames) :
 [2025.04.14-20.38.58:094][228]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.04.14-20.38.58:094][228]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.04.14-20.38.58:094][228]AssetCheck: /Game/_BachelorsProject/Levels/gameplaymechanics Validating asset
+[2025.04.14-20.41.43:987][923]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Crab.BP_ThirdPersonCharacter_Crab
+[2025.04.14-20.41.43:988][923]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.04.14-20.41.49:438][148]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.04.14-20.41.49:438][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.14-20.41.49:615][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.04.14-20.41.52:512][292]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8251.200195
+[2025.04.14-20.41.52:710][301]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.14-20.41.52:710][301]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8251.375000, Update Interval: 303.665894
+[2025.04.14-20.42.42:560][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.04.14-20.42.43:505][743]LogSlate: Window 'Save Content' being destroyed
+[2025.04.14-20.42.43:516][743]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.14-20.42.43:604][743]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.04.14-20.42.43:673][743]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.04.14-20.42.43:673][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.04.14-20.42.43:696][743]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.04.14-20.42.43:697][743]LogSavePackage: Moving '../../../../../../Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Saved/BP_ThirdPersonCharacter872E8141421FC078F34F94A257E018F1.tmp' to '../../../../../../Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.04.14-20.42.43:709][743]LogFileHelpers: InternalPromptForCheckoutAndSave took 192.738 ms (total: 6.59 sec)
+[2025.04.14-20.42.43:808][743]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.14-20.42.43:808][743]LogContentValidation: Enabled validators:
+[2025.04.14-20.42.43:808][743]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.14-20.42.43:808][743]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.14-20.42.43:808][743]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.14-20.42.43:808][743]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.14-20.42.43:808][743]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.14-20.42.43:808][743]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.14-20.42.43:808][743]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.04.14-20.43.44:682][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.04.14-20.43.46:021][635]LogSlate: Window 'Save Content' being destroyed
+[2025.04.14-20.43.46:033][635]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.14-20.43.46:128][635]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_BachelorsProject/Assets/Blueprints/AI/BP_crab] ([2] browsable assets)...
+[2025.04.14-20.43.46:205][635]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_BachelorsProject/Assets/Blueprints/AI/BP_crab.BP_crab]
+[2025.04.14-20.43.46:205][635]OBJ SavePackage: Finished generating thumbnails for package [/Game/_BachelorsProject/Assets/Blueprints/AI/BP_crab]
+[2025.04.14-20.43.46:231][635]LogSavePackage: Moving output files for package: /Game/_BachelorsProject/Assets/Blueprints/AI/BP_crab
+[2025.04.14-20.43.46:233][635]LogSavePackage: Moving '../../../../../../Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Saved/BP_crab1EE9C8B14972B9C434DCFA9BC6FDAB5E.tmp' to '../../../../../../Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/AI/BP_crab.uasset'
+[2025.04.14-20.43.46:245][635]LogFileHelpers: InternalPromptForCheckoutAndSave took 212.319 ms (total: 6.80 sec)
+[2025.04.14-20.43.46:370][635]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.14-20.43.46:370][635]LogContentValidation: Enabled validators:
+[2025.04.14-20.43.46:370][635]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.14-20.43.46:370][635]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.14-20.43.46:370][635]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.14-20.43.46:370][635]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.14-20.43.46:370][635]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.14-20.43.46:370][635]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.14-20.43.46:370][635]AssetCheck: /Game/_BachelorsProject/Assets/Blueprints/AI/BP_crab Validating asset
+[2025.04.14-20.44.19:027][648]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.04.14-20.44.19:046][648]LogContentBrowser: Creating deferred item: NewFolder
+[2025.04.14-20.44.19:062][649]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.04.14-20.44.30:205][315]LogContentBrowser: Attempting asset rename: NewFolder -> zatialNepotrebujeme
+[2025.04.14-20.44.30:215][315]LogContentBrowser: End creating deferred item NewFolder
+[2025.04.14-20.44.33:797][465]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Crab.BP_ThirdPersonCharacter_Crab_C' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Crab.PackageMetaData'
+[2025.04.14-20.44.33:797][465]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Crab.BP_ThirdPersonCharacter_Crab:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Crab.PackageMetaData'
+[2025.04.14-20.44.33:797][465]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Crab.BP_ThirdPersonCharacter_Crab:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Crab.PackageMetaData'
+[2025.04.14-20.44.33:797][465]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Crab.BP_ThirdPersonCharacter_Crab:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Crab.PackageMetaData'
+[2025.04.14-20.44.33:797][465]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Crab.BP_ThirdPersonCharacter_Crab:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Crab.PackageMetaData'
+[2025.04.14-20.44.33:797][465]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Crab.SKEL_BP_ThirdPersonCharacter_Crab_C' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Crab.PackageMetaData'
+[2025.04.14-20.44.33:797][465]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Crab.SKEL_BP_ThirdPersonCharacter_Crab_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Crab.PackageMetaData'
+[2025.04.14-20.44.33:797][465]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Crab.SKEL_BP_ThirdPersonCharacter_Crab_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Crab.PackageMetaData'
+[2025.04.14-20.44.33:797][465]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Crab.SKEL_BP_ThirdPersonCharacter_Crab_C:ReceiveTick' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Crab.PackageMetaData'
+[2025.04.14-20.44.33:797][465]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Crab.SKEL_BP_ThirdPersonCharacter_Crab_C:ReceiveUnpossessed' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Crab.PackageMetaData'
+[2025.04.14-20.44.33:797][465]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Crab.SKEL_BP_ThirdPersonCharacter_Crab_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Crab.PackageMetaData'
+[2025.04.14-20.44.33:797][465]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Crab.BP_ThirdPersonCharacter_Crab_C:ReceiveUnpossessed' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Crab.PackageMetaData'
+[2025.04.14-20.44.33:859][465]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.14-20.44.33:861][465]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Crab] ([2] browsable assets)...
+[2025.04.14-20.44.33:861][465]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.04.14-20.44.33:925][465]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Crab.BP_ThirdPersonCharacter_Crab_C]
+[2025.04.14-20.44.33:925][465]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Crab]
+[2025.04.14-20.44.33:932][465]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Crab
+[2025.04.14-20.44.33:932][465]LogSavePackage: Moving '../../../../../../Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Saved/BP_ThirdPersonCharacter_Crab7A6881CF4FDADBB3B243298EBF338F1C.tmp' to '../../../../../../Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Crab.uasset'
+[2025.04.14-20.44.33:947][465]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Crab] ([5] browsable assets)...
+[2025.04.14-20.44.33:947][465]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Crab]
+[2025.04.14-20.44.33:949][465]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Crab
+[2025.04.14-20.44.33:949][465]LogSavePackage: Moving '../../../../../../Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Saved/BP_ThirdPersonCharacter_Crab8C1D1C4647AA4C4CEE1CF68A2F43225D.tmp' to '../../../../../../Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Crab.uasset'
+[2025.04.14-20.44.33:954][465]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.255 ms (total: 6.89 sec)
+[2025.04.14-20.44.34:033][465]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.04.14-20.44.34:033][465]LogContentValidation: Display: Starting to validate 4 assets
+[2025.04.14-20.44.34:033][465]LogContentValidation: Enabled validators:
+[2025.04.14-20.44.34:033][465]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.14-20.44.34:034][465]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.14-20.44.34:034][465]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.14-20.44.34:034][465]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.14-20.44.34:034][465]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.14-20.44.34:034][465]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.14-20.44.34:034][465]AssetCheck: /Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Crab Validating asset
+[2025.04.14-20.44.34:034][465]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Crab Validating asset
+[2025.04.14-20.44.34:034][465]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Crab Validating asset
+[2025.04.14-20.44.34:034][465]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Crab Validating asset
+[2025.04.14-20.44.34:596][496]LogStreaming: Display: FlushAsyncLoading(605): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.14-20.44.34:742][496]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.04.14-20.44.36:349][556]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Child.BP_ThirdPersonCharacter_Child:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Child.PackageMetaData'
+[2025.04.14-20.44.36:349][556]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Child.BP_ThirdPersonCharacter_Child_C' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Child.PackageMetaData'
+[2025.04.14-20.44.36:349][556]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Child.BP_ThirdPersonCharacter_Child:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Child.PackageMetaData'
+[2025.04.14-20.44.36:349][556]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Child.BP_ThirdPersonCharacter_Child:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Child.PackageMetaData'
+[2025.04.14-20.44.36:349][556]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Child.BP_ThirdPersonCharacter_Child:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Child.PackageMetaData'
+[2025.04.14-20.44.36:349][556]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Child.SKEL_BP_ThirdPersonCharacter_Child_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Child.PackageMetaData'
+[2025.04.14-20.44.36:349][556]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Child.SKEL_BP_ThirdPersonCharacter_Child_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Child.PackageMetaData'
+[2025.04.14-20.44.36:349][556]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Child.SKEL_BP_ThirdPersonCharacter_Child_C:ReceiveTick' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Child.PackageMetaData'
+[2025.04.14-20.44.36:349][556]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Child.SKEL_BP_ThirdPersonCharacter_Child_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Child.PackageMetaData'
+[2025.04.14-20.44.36:349][556]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Child.SKEL_BP_ThirdPersonCharacter_Child_C' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Child.PackageMetaData'
+[2025.04.14-20.44.36:385][556]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.14-20.44.36:385][556]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Child] ([2] browsable assets)...
+[2025.04.14-20.44.36:386][556]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.04.14-20.44.36:451][556]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Child.BP_ThirdPersonCharacter_Child_C]
+[2025.04.14-20.44.36:451][556]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Child]
+[2025.04.14-20.44.36:457][556]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Child
+[2025.04.14-20.44.36:457][556]LogSavePackage: Moving '../../../../../../Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Saved/BP_ThirdPersonCharacter_Child668C3384487082DA8ACB59A96401307B.tmp' to '../../../../../../Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Child.uasset'
+[2025.04.14-20.44.36:461][556]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.398 ms (total: 6.97 sec)
+[2025.04.14-20.44.36:586][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.04.14-20.44.36:616][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.04.14-20.44.36:643][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.04.14-20.44.36:723][556]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.04.14-20.44.36:723][556]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.14-20.44.36:723][556]LogContentValidation: Enabled validators:
+[2025.04.14-20.44.36:723][556]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.14-20.44.36:723][556]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.14-20.44.36:723][556]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.14-20.44.36:723][556]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.14-20.44.36:723][556]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.14-20.44.36:723][556]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.14-20.44.36:723][556]AssetCheck: /Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Child Validating asset
+[2025.04.14-20.44.44:505][  6]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.14-20.44.44:529][  6]LogPlayLevel: [PlayLevel] Compiling BP_crab before play...
+[2025.04.14-20.44.44:706][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.04.14-20.44.44:717][  6]LogPlayLevel: PlayLevel: Blueprint regeneration took 190 ms (1 blueprints)
+[2025.04.14-20.44.44:718][  6]LogPlayLevel: Creating play world package: /Game/_BachelorsProject/Levels/UEDPIE_0_gameplaymechanics
+[2025.04.14-20.44.44:729][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011150s)
+[2025.04.14-20.44.44:729][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics to /Game/_BachelorsProject/Levels/UEDPIE_0_gameplaymechanics.gameplaymechanics (0.011194s)
+[2025.04.14-20.44.44:752][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.04.14-20.44.44:755][  6]LogChaosDD: Creating Chaos Debug Draw Scene for world gameplaymechanics
+[2025.04.14-20.44.44:757][  6]LogPlayLevel: PIE: World Init took: (0.001839s)
+[2025.04.14-20.44.44:759][  6]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2025.04.14-20.44.44:759][  6]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.14-20.44.44:759][  6]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.14-20.44.44:759][  6]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.14-20.44.44:759][  6]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.14-20.44.44:759][  6]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.14-20.44.44:759][  6]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.14-20.44.44:759][  6]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.14-20.44.44:759][  6]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.14-20.44.44:759][  6]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.14-20.44.44:759][  6]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.14-20.44.44:759][  6]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.14-20.44.44:762][  6]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.14-20.44.44:781][  6]LogAudioMixer: Display: Using Audio Hardware Device Headphones (BHP 7300)
+[2025.04.14-20.44.44:781][  6]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.14-20.44.44:781][  6]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.14-20.44.44:781][  6]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.14-20.44.44:782][  6]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2025.04.14-20.44.44:782][  6]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2025.04.14-20.44.44:785][  6]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2025.04.14-20.44.44:785][  6]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2025.04.14-20.44.44:785][  6]LogInit: FAudioDevice initialized with ID 33.
+[2025.04.14-20.44.44:785][  6]LogAudio: Display: Audio Device (ID: 33) registered with world 'gameplaymechanics'.
+[2025.04.14-20.44.44:785][  6]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2025.04.14-20.44.44:788][  6]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.14-20.44.44:797][  6]LogWorld: Bringing World /Game/_BachelorsProject/Levels/UEDPIE_0_gameplaymechanics.gameplaymechanics up for play (max tick rate 0) at 2025.04.14-22.44.44
+[2025.04.14-20.44.44:798][  6]LogWorld: Bringing up level for play took: 0.009446
+[2025.04.14-20.44.44:801][  6]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2025.04.14-20.44.44:805][  6]PIE: Server logged in
+[2025.04.14-20.44.44:807][  6]PIE: Play in editor total start time 0.28 seconds.
+[2025.04.14-20.45.34:342][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.14-20.45.34:342][ 82]LogWorld: BeginTearingDown for /Game/_BachelorsProject/Levels/UEDPIE_0_gameplaymechanics
+[2025.04.14-20.45.34:343][ 82]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2025.04.14-20.45.34:343][ 82]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2025.04.14-20.45.34:343][ 82]LogWorld: UWorld::CleanupWorld for gameplaymechanics, bSessionEnded=true, bCleanupResources=true
+[2025.04.14-20.45.34:346][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.14-20.45.34:352][ 82]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.14-20.45.34:358][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.14-20.45.34:387][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.14-20.45.34:387][ 82]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2025.04.14-20.45.34:387][ 82]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2025.04.14-20.45.34:389][ 82]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2025.04.14-20.45.34:399][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.04.14-20.45.34:499][ 83]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2025.04.14-20.45.46:729][800]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_BachelorsProject/Assets/Blueprints/AI/BP_crab.BP_crab_C
+[2025.04.14-20.45.46:729][800]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_BachelorsProject/Assets/Blueprints/AI/BP_crab.BP_crab_C
+[2025.04.14-20.45.46:735][800]LogActorFactory: Actor Factory spawned Blueprint /Game/_BachelorsProject/Assets/Blueprints/AI/BP_crab.BP_crab as actor: BP_crab_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.BP_crab_C_0
+[2025.04.14-20.45.46:738][800]LogActorFactory: Actor Factory spawned Blueprint /Game/_BachelorsProject/Assets/Blueprints/AI/BP_crab.BP_crab as actor: BP_crab_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.BP_crab_C_0
+[2025.04.14-20.45.47:455][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.04.14-20.45.47:459][837]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2025.04.14-20.45.47:466][837]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_BachelorsProject/Assets/Blueprints/AI/BP_crab.BP_crab_C
+[2025.04.14-20.45.47:466][837]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_BachelorsProject/Assets/Blueprints/AI/BP_crab.BP_crab_C
+[2025.04.14-20.45.47:474][837]LogActorFactory: Actor Factory spawned Blueprint /Game/_BachelorsProject/Assets/Blueprints/AI/BP_crab.BP_crab as actor: BP_crab_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.BP_crab_C_1
+[2025.04.14-20.45.47:477][837]LogActorFactory: Actor Factory spawned Blueprint /Game/_BachelorsProject/Assets/Blueprints/AI/BP_crab.BP_crab as actor: BP_crab_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.BP_crab_C_1
+[2025.04.14-20.45.59:209][249]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.14-20.45.59:229][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.14-20.45.59:229][249]LogPlayLevel: Creating play world package: /Game/_BachelorsProject/Levels/UEDPIE_0_gameplaymechanics
+[2025.04.14-20.45.59:246][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017111s)
+[2025.04.14-20.45.59:246][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics to /Game/_BachelorsProject/Levels/UEDPIE_0_gameplaymechanics.gameplaymechanics (0.017165s)
+[2025.04.14-20.45.59:269][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.04.14-20.45.59:278][249]LogChaosDD: Creating Chaos Debug Draw Scene for world gameplaymechanics
+[2025.04.14-20.45.59:280][249]LogPlayLevel: PIE: World Init took: (0.002034s)
+[2025.04.14-20.45.59:281][249]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2025.04.14-20.45.59:281][249]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.14-20.45.59:281][249]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.14-20.45.59:281][249]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.14-20.45.59:281][249]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.14-20.45.59:281][249]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.14-20.45.59:281][249]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.14-20.45.59:281][249]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.14-20.45.59:281][249]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.14-20.45.59:281][249]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.14-20.45.59:281][249]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.14-20.45.59:281][249]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.14-20.45.59:284][249]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.14-20.45.59:303][249]LogAudioMixer: Display: Using Audio Hardware Device Headphones (BHP 7300)
+[2025.04.14-20.45.59:303][249]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.14-20.45.59:303][249]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.14-20.45.59:303][249]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.14-20.45.59:304][249]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2025.04.14-20.45.59:304][249]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2025.04.14-20.45.59:307][249]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2025.04.14-20.45.59:307][249]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2025.04.14-20.45.59:307][249]LogInit: FAudioDevice initialized with ID 34.
+[2025.04.14-20.45.59:307][249]LogAudio: Display: Audio Device (ID: 34) registered with world 'gameplaymechanics'.
+[2025.04.14-20.45.59:307][249]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2025.04.14-20.45.59:309][249]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.14-20.45.59:320][249]LogWorld: Bringing World /Game/_BachelorsProject/Levels/UEDPIE_0_gameplaymechanics.gameplaymechanics up for play (max tick rate 0) at 2025.04.14-22.45.59
+[2025.04.14-20.45.59:321][249]LogWorld: Bringing up level for play took: 0.009729
+[2025.04.14-20.45.59:323][249]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2025.04.14-20.45.59:328][249]PIE: Server logged in
+[2025.04.14-20.45.59:329][249]PIE: Play in editor total start time 0.104 seconds.
+[2025.04.14-20.45.59:754][250]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.082813 > MaxSimulationTimeStep (0.050) for 'BP_crab_C_1', movement 'Walking'
+[2025.04.14-20.46.00:162][252]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.089881 > MaxSimulationTimeStep (0.050) for 'BP_crab_C_2', movement 'Walking'
+[2025.04.14-20.46.00:195][252]LogSlate: Took 0.009117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.04.14-20.46.14:022][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.14-20.46.14:022][965]LogWorld: BeginTearingDown for /Game/_BachelorsProject/Levels/UEDPIE_0_gameplaymechanics
+[2025.04.14-20.46.14:022][965]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2025.04.14-20.46.14:022][965]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2025.04.14-20.46.14:024][965]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2025.04.14-20.46.14:024][965]LogWorld: UWorld::CleanupWorld for gameplaymechanics, bSessionEnded=true, bCleanupResources=true
+[2025.04.14-20.46.14:025][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.14-20.46.14:033][965]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.14-20.46.14:038][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.14-20.46.14:067][965]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.14-20.46.14:067][965]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2025.04.14-20.46.14:067][965]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2025.04.14-20.46.14:069][965]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2025.04.14-20.46.14:074][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.14-20.46.14:080][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.04.14-20.46.14:224][966]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2025.04.14-20.47.11:779][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.04.14-20.47.12:799][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.04.14-20.47.13:574][769]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.14-20.47.13:679][769]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_BachelorsProject/Assets/Blueprints/AI/BP_crab] ([2] browsable assets)...
+[2025.04.14-20.47.13:756][769]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_BachelorsProject/Assets/Blueprints/AI/BP_crab.BP_crab]
+[2025.04.14-20.47.13:756][769]OBJ SavePackage: Finished generating thumbnails for package [/Game/_BachelorsProject/Assets/Blueprints/AI/BP_crab]
+[2025.04.14-20.47.13:781][769]LogSavePackage: Moving output files for package: /Game/_BachelorsProject/Assets/Blueprints/AI/BP_crab
+[2025.04.14-20.47.13:782][769]LogSavePackage: Moving '../../../../../../Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Saved/BP_crab30052148409C6431E60B5D83D08042FC.tmp' to '../../../../../../Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/AI/BP_crab.uasset'
+[2025.04.14-20.47.13:798][769]LogFileHelpers: InternalPromptForCheckoutAndSave took 224.750 ms (total: 7.19 sec)
+[2025.04.14-20.47.13:893][769]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.14-20.47.13:893][769]LogContentValidation: Enabled validators:
+[2025.04.14-20.47.13:893][769]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.14-20.47.13:893][769]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.14-20.47.13:893][769]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.14-20.47.13:893][769]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.14-20.47.13:893][769]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.14-20.47.13:893][769]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.14-20.47.13:893][769]AssetCheck: /Game/_BachelorsProject/Assets/Blueprints/AI/BP_crab Validating asset
+[2025.04.14-20.47.49:679][761]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8608.305664
+[2025.04.14-20.47.49:892][768]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.14-20.47.49:893][768]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8608.485352, Update Interval: 310.807220
+[2025.04.14-20.47.57:937][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.04.14-20.47.58:853][992]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.14-20.47.58:971][992]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_BachelorsProject/Assets/Blueprints/AI/BP_crab] ([2] browsable assets)...
+[2025.04.14-20.47.58:981][992]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_BachelorsProject/Assets/Blueprints/AI/BP_crab.BP_crab]
+[2025.04.14-20.47.58:981][992]OBJ SavePackage: Finished generating thumbnails for package [/Game/_BachelorsProject/Assets/Blueprints/AI/BP_crab]
+[2025.04.14-20.47.59:008][992]LogSavePackage: Moving output files for package: /Game/_BachelorsProject/Assets/Blueprints/AI/BP_crab
+[2025.04.14-20.47.59:009][992]LogSavePackage: Moving '../../../../../../Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Saved/BP_crabB22A85D2411EE108888F54BC5D6A5AA7.tmp' to '../../../../../../Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/AI/BP_crab.uasset'
+[2025.04.14-20.47.59:024][992]LogFileHelpers: InternalPromptForCheckoutAndSave took 170.781 ms (total: 7.36 sec)
+[2025.04.14-20.47.59:119][992]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.14-20.47.59:119][992]LogContentValidation: Enabled validators:
+[2025.04.14-20.47.59:119][992]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.14-20.47.59:119][992]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.14-20.47.59:119][992]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.14-20.47.59:119][992]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.14-20.47.59:119][992]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.14-20.47.59:119][992]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.14-20.47.59:119][992]AssetCheck: /Game/_BachelorsProject/Assets/Blueprints/AI/BP_crab Validating asset
+[2025.04.14-20.48.01:702][ 74]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.14-20.48.01:721][ 74]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.14-20.48.01:721][ 74]LogPlayLevel: Creating play world package: /Game/_BachelorsProject/Levels/UEDPIE_0_gameplaymechanics
+[2025.04.14-20.48.01:738][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017436s)
+[2025.04.14-20.48.01:738][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics to /Game/_BachelorsProject/Levels/UEDPIE_0_gameplaymechanics.gameplaymechanics (0.017527s)
+[2025.04.14-20.48.01:768][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.04.14-20.48.01:775][ 74]LogChaosDD: Creating Chaos Debug Draw Scene for world gameplaymechanics
+[2025.04.14-20.48.01:777][ 74]LogPlayLevel: PIE: World Init took: (0.002092s)
+[2025.04.14-20.48.01:778][ 74]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2025.04.14-20.48.01:778][ 74]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.14-20.48.01:778][ 74]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.14-20.48.01:778][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.14-20.48.01:778][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.14-20.48.01:778][ 74]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.14-20.48.01:779][ 74]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.14-20.48.01:779][ 74]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.14-20.48.01:779][ 74]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.14-20.48.01:779][ 74]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.14-20.48.01:779][ 74]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.14-20.48.01:779][ 74]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.14-20.48.01:781][ 74]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.14-20.48.01:802][ 74]LogAudioMixer: Display: Using Audio Hardware Device Headphones (BHP 7300)
+[2025.04.14-20.48.01:802][ 74]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.14-20.48.01:802][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.14-20.48.01:802][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.14-20.48.01:803][ 74]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2025.04.14-20.48.01:803][ 74]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2025.04.14-20.48.01:807][ 74]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2025.04.14-20.48.01:807][ 74]LogInit: FAudioDevice initialized with ID 35.
+[2025.04.14-20.48.01:807][ 74]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2025.04.14-20.48.01:807][ 74]LogAudio: Display: Audio Device (ID: 35) registered with world 'gameplaymechanics'.
+[2025.04.14-20.48.01:807][ 74]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2025.04.14-20.48.01:810][ 74]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.14-20.48.01:819][ 74]LogWorld: Bringing World /Game/_BachelorsProject/Levels/UEDPIE_0_gameplaymechanics.gameplaymechanics up for play (max tick rate 0) at 2025.04.14-22.48.01
+[2025.04.14-20.48.01:820][ 74]LogWorld: Bringing up level for play took: 0.009756
+[2025.04.14-20.48.01:823][ 74]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2025.04.14-20.48.01:827][ 74]PIE: Server logged in
+[2025.04.14-20.48.01:829][ 74]PIE: Play in editor total start time 0.109 seconds.
+[2025.04.14-20.48.11:983][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.14-20.48.11:983][617]LogWorld: BeginTearingDown for /Game/_BachelorsProject/Levels/UEDPIE_0_gameplaymechanics
+[2025.04.14-20.48.11:983][617]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2025.04.14-20.48.11:983][617]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2025.04.14-20.48.11:983][617]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2025.04.14-20.48.11:983][617]LogWorld: UWorld::CleanupWorld for gameplaymechanics, bSessionEnded=true, bCleanupResources=true
+[2025.04.14-20.48.11:986][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.14-20.48.11:994][617]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.14-20.48.11:999][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.14-20.48.12:029][617]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.14-20.48.12:030][617]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2025.04.14-20.48.12:030][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2025.04.14-20.48.12:032][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2025.04.14-20.48.12:037][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.14-20.48.12:042][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.04.14-20.48.12:189][618]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2025.04.14-20.48.34:631][169]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2025.04.14-20.48.41:669][169]LogSlate: Window 'Save Content' being destroyed
+[2025.04.14-20.48.41:716][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.14-20.48.41:872][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.04.14-20.48.41:917][169]LogSavePackage: Moving output files for package: /Game/_BachelorsProject/Levels/gameplaymechanics
+[2025.04.14-20.48.41:918][169]LogSavePackage: Moving '../../../../../../Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Saved/gameplaymechanics9C14158F46898DA678D531A8A2F99D69.tmp' to '../../../../../../Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Levels/gameplaymechanics.umap'
+[2025.04.14-20.48.41:937][169]LogFileHelpers: Saving map 'gameplaymechanics' took 0.129
+[2025.04.14-20.48.41:939][169]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_BachelorsProject/Assets/Blueprints/AI/BP_crab] ([2] browsable assets)...
+[2025.04.14-20.48.41:984][169]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_BachelorsProject/Assets/Blueprints/AI/BP_crab.BP_crab]
+[2025.04.14-20.48.41:984][169]OBJ SavePackage: Finished generating thumbnails for package [/Game/_BachelorsProject/Assets/Blueprints/AI/BP_crab]
+[2025.04.14-20.48.42:009][169]LogSavePackage: Moving output files for package: /Game/_BachelorsProject/Assets/Blueprints/AI/BP_crab
+[2025.04.14-20.48.42:011][169]LogSavePackage: Moving '../../../../../../Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Saved/BP_crab3CEE65F143956338A881ECA0CA483624.tmp' to '../../../../../../Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/AI/BP_crab.uasset'
+[2025.04.14-20.48.42:025][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 308.807 ms (total: 7.67 sec)
+[2025.04.14-20.48.42:124][169]LogContentValidation: Display: Starting to validate 2 assets
+[2025.04.14-20.48.42:124][169]LogContentValidation: Enabled validators:
+[2025.04.14-20.48.42:124][169]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.14-20.48.42:124][169]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.14-20.48.42:124][169]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.14-20.48.42:124][169]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.14-20.48.42:124][169]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.14-20.48.42:124][169]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.14-20.48.42:125][169]AssetCheck: /Game/_BachelorsProject/Levels/gameplaymechanics Validating asset
+[2025.04.14-20.48.42:125][169]AssetCheck: /Game/_BachelorsProject/Assets/Blueprints/AI/BP_crab Validating asset
