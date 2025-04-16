@@ -2230,3 +2230,41 @@ LogConfig: Set CVar [[r.VRS.EnableSoftware:1]]
 [2025.04.16-19.17.15:181][ 40]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3241.699463
 [2025.04.16-19.17.16:180][ 43]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.04.16-19.17.16:180][ 43]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3242.365723, Update Interval: 325.045929
+[2025.04.16-19.23.19:770][803]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3606.287109
+[2025.04.16-19.23.20:770][806]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.16-19.23.20:770][806]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3606.953857, Update Interval: 304.850616
+[2025.04.16-19.25.01:730][248]LogDerivedDataCache: C:/Users/delet/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.04.16-19.26.46:297][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.04.16-19.26.46:300][101]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.027
+[2025.04.16-19.26.46:300][101]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode] ([2] browsable assets)...
+[2025.04.16-19.26.46:300][101]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode]
+[2025.04.16-19.26.46:305][101]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode_Auto4
+[2025.04.16-19.26.46:306][101]LogSavePackage: Moving '../../../../../../Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Saved/BP_ThirdPersonGameMode_Auto4101E187B4A83F5808A4705A8B6787835.tmp' to '../../../../../../Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode_Auto4.uasset'
+[2025.04.16-19.26.46:308][101]LogFileHelpers: Auto-saving content packages took 0.007
+[2025.04.16-19.29.07:543][302]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3954.031738
+[2025.04.16-19.29.07:728][314]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.16-19.29.07:728][314]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3954.200684, Update Interval: 304.574127
+[2025.04.16-19.31.27:098][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.04.16-19.31.28:447][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.04.16-19.31.29:518][ 56]LogSlate: Window 'Save Content' being destroyed
+[2025.04.16-19.31.29:530][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.16-19.31.29:572][ 56]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Child] ([2] browsable assets)...
+[2025.04.16-19.31.29:634][ 56]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Child.BP_ThirdPersonCharacter_Child]
+[2025.04.16-19.31.29:634][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Child]
+[2025.04.16-19.31.29:655][ 56]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Child
+[2025.04.16-19.31.29:655][ 56]LogSavePackage: Moving '../../../../../../Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Saved/BP_ThirdPersonCharacter_Child6C6A82EC44A86A74C05E17964852DB2C.tmp' to '../../../../../../Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Child.uasset'
+[2025.04.16-19.31.29:657][ 56]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode] ([2] browsable assets)...
+[2025.04.16-19.31.29:657][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode]
+[2025.04.16-19.31.29:662][ 56]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2025.04.16-19.31.29:663][ 56]LogSavePackage: Moving '../../../../../../Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Saved/BP_ThirdPersonGameMode3B302328468596769F1105A70BE3DDFD.tmp' to '../../../../../../Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2025.04.16-19.31.29:673][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.804 ms (total: 368.297 ms)
+[2025.04.16-19.31.29:720][ 56]LogContentValidation: Display: Starting to validate 2 assets
+[2025.04.16-19.31.29:720][ 56]LogContentValidation: Enabled validators:
+[2025.04.16-19.31.29:721][ 56]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.16-19.31.29:721][ 56]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.16-19.31.29:721][ 56]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.16-19.31.29:721][ 56]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.16-19.31.29:721][ 56]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.16-19.31.29:721][ 56]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.16-19.31.29:721][ 56]AssetCheck: /Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Child Validating asset
+[2025.04.16-19.31.29:721][ 56]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode Validating asset
