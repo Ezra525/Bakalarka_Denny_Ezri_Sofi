@@ -2268,3 +2268,28 @@ LogConfig: Set CVar [[r.VRS.EnableSoftware:1]]
 [2025.04.16-19.31.29:721][ 56]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.04.16-19.31.29:721][ 56]AssetCheck: /Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Child Validating asset
 [2025.04.16-19.31.29:721][ 56]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode Validating asset
+[2025.04.16-19.32.35:442][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.04.16-19.33.08:641][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.04.16-19.33.10:830][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.04.16-19.33.11:599][766]LogSlate: Window 'Save Content' being destroyed
+[2025.04.16-19.33.11:609][766]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.16-19.33.11:651][766]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Child] ([2] browsable assets)...
+[2025.04.16-19.33.11:714][766]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Child.BP_ThirdPersonCharacter_Child]
+[2025.04.16-19.33.11:714][766]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Child]
+[2025.04.16-19.33.11:737][766]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Child
+[2025.04.16-19.33.11:738][766]LogSavePackage: Moving '../../../../../../Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Saved/BP_ThirdPersonCharacter_ChildF6AA76F149AD39F831B7D7BC54C6DAE9.tmp' to '../../../../../../Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Child.uasset'
+[2025.04.16-19.33.11:740][766]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode] ([2] browsable assets)...
+[2025.04.16-19.33.11:740][766]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode]
+[2025.04.16-19.33.11:745][766]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2025.04.16-19.33.11:746][766]LogSavePackage: Moving '../../../../../../Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Saved/BP_ThirdPersonGameMode34F36EEF45ED53BF099FB8BEB6FDA15A.tmp' to '../../../../../../Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2025.04.16-19.33.11:757][766]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.360 ms (total: 515.657 ms)
+[2025.04.16-19.33.11:794][766]LogContentValidation: Display: Starting to validate 2 assets
+[2025.04.16-19.33.11:794][766]LogContentValidation: Enabled validators:
+[2025.04.16-19.33.11:794][766]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.16-19.33.11:794][766]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.16-19.33.11:794][766]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.16-19.33.11:794][766]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.16-19.33.11:794][766]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.16-19.33.11:794][766]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.16-19.33.11:794][766]AssetCheck: /Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Child Validating asset
+[2025.04.16-19.33.11:794][766]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode Validating asset
