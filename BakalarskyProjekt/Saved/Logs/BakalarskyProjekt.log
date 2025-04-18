@@ -2495,3 +2495,12 @@ LogConfig: Set CVar [[r.VRS.EnableSoftware:1]]
 [2025.04.18-23.10.16:499][935]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
 [2025.04.18-23.10.16:512][935]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
 [2025.04.18-23.10.16:563][936]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2025.04.18-23.11.19:252][319]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1725.166016
+[2025.04.18-23.11.20:251][322]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.18-23.11.20:251][322]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1725.831665, Update Interval: 348.092285
+[2025.04.18-23.14.55:968][294]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'APawn::SpawnDefaultController' [Element not found.]
+[2025.04.18-23.15.10:790][  7]LogAnimation: Warning: Setting an additive animation (sahrk_Anim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Engine/Transient.World_8:PersistentLevel.BP_shark_C_0.CharacterMesh0.AnimSingleNodeInstance_4) is not allowed. This will not function correctly in cooked builds!
+[2025.04.18-23.15.10:790][  7]LogAnimation: Warning: Setting an additive animation (sahrk_Anim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Engine/Transient.World_8:PersistentLevel.BP_shark_C_0.CharacterMesh0.AnimSingleNodeInstance_4) is not allowed. This will not function correctly in cooked builds!
+[2025.04.18-23.17.44:267][360]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2110.184814
+[2025.04.18-23.17.45:267][363]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.18-23.17.45:267][363]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2110.851562, Update Interval: 348.993195
