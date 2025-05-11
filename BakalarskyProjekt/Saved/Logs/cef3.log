@@ -1,6 +1,1 @@
-[0412/011055.870:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 25
-[0412/011055.871:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 21
-[0412/011112.494:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
-[0412/011112.557:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
-[0412/011112.894:WARNING:gpu_process_host.cc(1016)] Reinitialized the GPU process after a crash. The reported initialization time was 275 ms
-[0412/011249.318:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0512/001242.836:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
