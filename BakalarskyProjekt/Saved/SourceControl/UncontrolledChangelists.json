@@ -6,7 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/GUI/PauseMenu/WBP_PauseMenu.uasset",
-				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/GUI/MainMenu/LVL_MainMenu.umap"
+				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/GUI/MainMenu/LVL_MainMenu.umap",
+				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/GUI/SettingsMenu/WBP_SettingsMenu.uasset",
+				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/GUI/MainMenu/WBP_MainMenu.uasset",
+				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Levels/gameplaymechanics.umap"
 			]
 		}
 	]
