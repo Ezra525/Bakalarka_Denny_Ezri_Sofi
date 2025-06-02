@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/GUI/PauseMenu/WBP_PauseMenu.uasset",
+				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/GUI/MainMenu/LVL_MainMenu.umap",
+				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/GUI/SettingsMenu/WBP_SettingsMenu.uasset",
+				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/GUI/MainMenu/WBP_MainMenu.uasset",
+				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Levels/gameplaymechanics.umap",
+				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/GUI/SettingsMenu/SCM_MasterSoundVolume.uasset",
 				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Levels/animations.umap",
 				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Levels/gameplaymechanics.umap",
 				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/collectibles/BP_collectItem.uasset",
@@ -25,12 +31,7 @@
 				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/SpecificDoors/BP_LABdoor2.uasset",
 				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Child.uasset",
 				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
-				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/ThirdPerson/Blueprints/CharacterSwichingPlayerController.uasset",
-				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/GUI/PauseMenu/WBP_PauseMenu.uasset",
-				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/GUI/MainMenu/LVL_MainMenu.umap",
-				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/GUI/SettingsMenu/WBP_SettingsMenu.uasset",
-				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/GUI/MainMenu/WBP_MainMenu.uasset",
-				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Levels/gameplaymechanics.umap"
+				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/ThirdPerson/Blueprints/CharacterSwichingPlayerController.uasset"
 			]
 		}
 	]
