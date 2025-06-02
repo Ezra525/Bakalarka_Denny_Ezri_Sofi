@@ -2716,3 +2716,977 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.06.02-00.53.07:148][236]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8868.864258
 [2025.06.02-00.53.08:145][239]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.06.02-00.53.08:145][239]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8869.526367, Update Interval: 339.182098
+[2025.06.02-00.54.20:522][823]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2025.06.02-00.55.01:431][197]LogStreaming: Display: FlushAsyncLoading(639): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.02-00.55.01:512][197]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Steam01...
+[2025.06.02-00.55.01:539][197]LogAudioDerivedData: Display: Steam01 compressed to 20.57% (from 797KB to 164KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.06.02-00.55.01:540][197]LogAudio: Display: Chunk stats for (SoundWave /Game/StarterContent/Audio/Steam01.Steam01: Duration=0.00 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=168025 bytes, ChunkN=0)
+[2025.06.02-00.55.01:805][206]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_Effect_Steam.Blueprint_Effect_Steam_C
+[2025.06.02-00.55.01:805][206]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_Effect_Steam.Blueprint_Effect_Steam_C
+[2025.06.02-00.55.01:813][206]LogStreaming: Display: FlushAsyncLoading(641): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.02-00.55.01:825][206]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_Effect_Steam.Blueprint_Effect_Steam as actor: Blueprint_Effect_Steam_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.Blueprint_Effect_Steam_C_0
+[2025.06.02-00.55.01:829][206]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_Effect_Steam.Blueprint_Effect_Steam as actor: Blueprint_Effect_Steam_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.Blueprint_Effect_Steam_C_0
+[2025.06.02-00.55.04:563][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.06.02-00.55.04:595][344]LogEditorActor: Deleted 0 Actors (0.053 secs)
+[2025.06.02-00.55.04:603][344]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_Effect_Steam.Blueprint_Effect_Steam_C
+[2025.06.02-00.55.04:603][344]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_Effect_Steam.Blueprint_Effect_Steam_C
+[2025.06.02-00.55.04:609][344]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_Effect_Steam.Blueprint_Effect_Steam as actor: Blueprint_Effect_Steam_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.Blueprint_Effect_Steam_C_1
+[2025.06.02-00.55.04:611][344]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_Effect_Steam.Blueprint_Effect_Steam as actor: Blueprint_Effect_Steam_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.Blueprint_Effect_Steam_C_1
+[2025.06.02-00.55.10:640][689]LogStreaming: Display: FlushAsyncLoading(642): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.02-00.55.11:039][699]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_Effect_Fire.Blueprint_Effect_Fire_C
+[2025.06.02-00.55.11:039][699]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_Effect_Fire.Blueprint_Effect_Fire_C
+[2025.06.02-00.55.11:040][699]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_Effect_Fire.Blueprint_Effect_Fire as actor: Blueprint_Effect_Fire_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.Blueprint_Effect_Fire_C_0
+[2025.06.02-00.55.11:041][699]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_Effect_Fire.Blueprint_Effect_Fire as actor: Blueprint_Effect_Fire_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.Blueprint_Effect_Fire_C_0
+[2025.06.02-00.55.12:995][735]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2025.06.02-00.55.13:031][735]LogEditorActor: Deleted 0 Actors (0.075 secs)
+[2025.06.02-00.55.13:524][742]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_Effect_Fire.Blueprint_Effect_Fire_C
+[2025.06.02-00.55.13:524][742]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_Effect_Fire.Blueprint_Effect_Fire_C
+[2025.06.02-00.55.13:526][742]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_Effect_Fire.Blueprint_Effect_Fire as actor: Blueprint_Effect_Fire_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.Blueprint_Effect_Fire_C_1
+[2025.06.02-00.55.13:527][742]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_Effect_Fire.Blueprint_Effect_Fire as actor: Blueprint_Effect_Fire_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.Blueprint_Effect_Fire_C_1
+[2025.06.02-00.55.14:046][760]LogPSOHitching: Encountered 400 PSO creation hitches so far (161 graphics, 239 compute). 0 of them were precached.
+[2025.06.02-00.55.14:079][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.06.02-00.55.14:083][760]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.06.02-00.55.14:093][760]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_Effect_Fire.Blueprint_Effect_Fire_C
+[2025.06.02-00.55.14:093][760]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_Effect_Fire.Blueprint_Effect_Fire_C
+[2025.06.02-00.55.14:096][760]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_Effect_Fire.Blueprint_Effect_Fire as actor: Blueprint_Effect_Fire_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.Blueprint_Effect_Fire_C_2
+[2025.06.02-00.55.14:098][760]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_Effect_Fire.Blueprint_Effect_Fire as actor: Blueprint_Effect_Fire_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.Blueprint_Effect_Fire_C_2
+[2025.06.02-00.55.25:983][349]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_Effect_Fire.Blueprint_Effect_Fire_C
+[2025.06.02-00.55.25:983][349]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_Effect_Fire.Blueprint_Effect_Fire_C
+[2025.06.02-00.55.25:985][349]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_Effect_Fire.Blueprint_Effect_Fire as actor: Blueprint_Effect_Fire_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.Blueprint_Effect_Fire_C_3
+[2025.06.02-00.55.25:986][349]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_Effect_Fire.Blueprint_Effect_Fire as actor: Blueprint_Effect_Fire_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.Blueprint_Effect_Fire_C_3
+[2025.06.02-00.55.26:729][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.06.02-00.55.26:732][379]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.06.02-00.55.28:267][449]LogStreaming: Display: FlushAsyncLoading(644): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.02-00.55.28:354][449]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Explosion01...
+[2025.06.02-00.55.28:361][449]LogAudioDerivedData: Display: Explosion01 compressed to 14.39% (from 273KB to 39KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.06.02-00.55.28:361][449]LogAudio: Display: Chunk stats for (SoundWave /Game/StarterContent/Audio/Explosion01.Explosion01: Duration=0.00 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=40269 bytes, ChunkN=0)
+[2025.06.02-00.55.28:363][449]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Explosion02...
+[2025.06.02-00.55.28:371][449]LogAudioDerivedData: Display: Explosion02 compressed to 13.84% (from 279KB to 38KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.06.02-00.55.28:371][449]LogAudio: Display: Chunk stats for (SoundWave /Game/StarterContent/Audio/Explosion02.Explosion02: Duration=0.00 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=39649 bytes, ChunkN=0)
+[2025.06.02-00.55.29:576][512]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_Effect_Explosion.Blueprint_Effect_Explosion_C
+[2025.06.02-00.55.29:576][512]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_Effect_Explosion.Blueprint_Effect_Explosion_C
+[2025.06.02-00.55.29:577][512]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_Effect_Explosion.Blueprint_Effect_Explosion as actor: Blueprint_Effect_Explosion_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.Blueprint_Effect_Explosion_C_0
+[2025.06.02-00.55.29:578][512]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_Effect_Explosion.Blueprint_Effect_Explosion as actor: Blueprint_Effect_Explosion_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.Blueprint_Effect_Explosion_C_0
+[2025.06.02-00.55.30:962][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.06.02-00.55.30:991][555]LogEditorActor: Deleted 0 Actors (0.081 secs)
+[2025.06.02-00.55.31:002][555]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_Effect_Explosion.Blueprint_Effect_Explosion_C
+[2025.06.02-00.55.31:002][555]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_Effect_Explosion.Blueprint_Effect_Explosion_C
+[2025.06.02-00.55.31:005][555]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_Effect_Explosion.Blueprint_Effect_Explosion as actor: Blueprint_Effect_Explosion_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.Blueprint_Effect_Explosion_C_1
+[2025.06.02-00.55.31:007][555]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_Effect_Explosion.Blueprint_Effect_Explosion as actor: Blueprint_Effect_Explosion_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.Blueprint_Effect_Explosion_C_1
+[2025.06.02-00.55.32:800][575]LogShaderCompilers: Display: ================================================
+[2025.06.02-00.55.32:800][575]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.06.02-00.55.32:800][575]LogShaderCompilers: Display: Total job queries 381, among them cache hits 46 (12.07%), DDC hits 312 (81.89%), Duplicates 3 (0.79%)
+[2025.06.02-00.55.32:800][575]LogShaderCompilers: Display: Tracking 332 distinct input hashes that result in 270 distinct outputs (81.33%)
+[2025.06.02-00.55.32:814][575]LogShaderCompilers: Display: RAM used: 160.06 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.06.02-00.55.32:814][575]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.06.02-00.55.32:814][575]LogShaderCompilers: Display: Shaders Compiled: 20
+[2025.06.02-00.55.32:814][575]LogShaderCompilers: Display: Jobs assigned 20, completed 20 (100%)
+[2025.06.02-00.55.32:814][575]LogShaderCompilers: Display: Average time worker was idle: 9.19 s
+[2025.06.02-00.55.32:814][575]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2025.06.02-00.55.32:814][575]LogShaderCompilers: Display: Job execution time: average 0.96 s, max 2.24 s
+[2025.06.02-00.55.32:814][575]LogShaderCompilers: Display: Job life time (pending + execution): average 1.02 s, max 2.35
+[2025.06.02-00.55.32:814][575]LogShaderCompilers: Display: Shader code size: average 9.608 KiB, min 2.703 KiB, max 14.242 KiB
+[2025.06.02-00.55.32:814][575]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.01 s
+[2025.06.02-00.55.32:814][575]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.06.02-00.55.32:814][575]LogShaderCompilers: Display: Jobs were issued in 20 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.06.02-00.55.32:814][575]LogShaderCompilers: Display: Average processing rate: 3.33 jobs/sec
+[2025.06.02-00.55.32:814][575]LogShaderCompilers: Display: Total thread time: 11.143 s
+[2025.06.02-00.55.32:814][575]LogShaderCompilers: Display: Total thread preprocess time: 8.021 s
+[2025.06.02-00.55.32:814][575]LogShaderCompilers: Display: Percentage time preprocessing: 71.98%
+[2025.06.02-00.55.32:815][575]LogShaderCompilers: Display: Effective parallelization: 1.85 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.06.02-00.55.32:815][575]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.06.02-00.55.32:815][575]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.71 sec, max 0.71 sec, min 0.71 sec)
+[2025.06.02-00.55.32:815][575]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.60 sec, max 0.87 sec, min 0.37 sec)
+[2025.06.02-00.55.32:815][575]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    7 times, average 0.57 sec, max 0.79 sec, min 0.33 sec)
+[2025.06.02-00.55.32:815][575]LogShaderCompilers: Display:                                            FDistortionMeshPS (compiled    2 times, average 0.52 sec, max 0.64 sec, min 0.40 sec)
+[2025.06.02-00.55.32:815][575]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled    2 times, average 0.50 sec, max 0.57 sec, min 0.43 sec)
+[2025.06.02-00.55.32:815][575]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.06.02-00.55.32:815][575]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 35.88% of total time (compiled    7 times, average 0.57 sec, max 0.79 sec, min 0.33 sec)
+[2025.06.02-00.55.32:815][575]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 32.46% of total time (compiled    6 times, average 0.60 sec, max 0.87 sec, min 0.37 sec)
+[2025.06.02-00.55.32:815][575]LogShaderCompilers: Display:                                            FDistortionMeshPS - 9.34% of total time (compiled    2 times, average 0.52 sec, max 0.64 sec, min 0.40 sec)
+[2025.06.02-00.55.32:815][575]LogShaderCompilers: Display:                                            FDistortionMeshVS - 8.95% of total time (compiled    2 times, average 0.50 sec, max 0.57 sec, min 0.43 sec)
+[2025.06.02-00.55.32:815][575]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 6.41% of total time (compiled    1 times, average 0.71 sec, max 0.71 sec, min 0.71 sec)
+[2025.06.02-00.55.32:815][575]LogShaderCompilers: Display: === Material stats ===
+[2025.06.02-00.55.32:815][575]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.06.02-00.55.32:815][575]LogShaderCompilers: Display: Materials Translated:    170
+[2025.06.02-00.55.32:815][575]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2025.06.02-00.55.32:815][575]LogShaderCompilers: Display: Material Translation Only: 0.07 s (50%)
+[2025.06.02-00.55.32:815][575]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.06.02-00.55.32:815][575]LogShaderCompilers: Display: Material Cache Hits: 24 (14%)
+[2025.06.02-00.55.32:815][575]LogShaderCompilers: Display: ================================================
+[2025.06.02-00.55.45:207][250]LogStreaming: Display: FlushAsyncLoading(647): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.02-00.55.45:263][250]LogStaticMesh: Display: Building static mesh SM_Lamp_Ceiling (Required Memory Estimate: 3.860829 MB)...
+[2025.06.02-00.55.45:286][250]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Props/SM_Lamp_Ceiling.SM_Lamp_Ceiling
+[2025.06.02-00.55.45:292][250]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2025.06.02-00.55.45:770][251]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_CeilingLight.Blueprint_CeilingLight_C
+[2025.06.02-00.55.45:770][251]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_CeilingLight.Blueprint_CeilingLight_C
+[2025.06.02-00.55.45:772][251]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_CeilingLight.Blueprint_CeilingLight as actor: Blueprint_CeilingLight_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.Blueprint_CeilingLight_C_0
+[2025.06.02-00.55.45:775][251]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_CeilingLight.Blueprint_CeilingLight as actor: Blueprint_CeilingLight_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.Blueprint_CeilingLight_C_0
+[2025.06.02-00.55.49:303][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.06.02-00.55.49:335][286]LogEditorActor: Deleted 0 Actors (0.053 secs)
+[2025.06.02-00.55.49:345][286]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_CeilingLight.Blueprint_CeilingLight_C
+[2025.06.02-00.55.49:345][286]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_CeilingLight.Blueprint_CeilingLight_C
+[2025.06.02-00.55.49:348][286]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_CeilingLight.Blueprint_CeilingLight as actor: Blueprint_CeilingLight_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.Blueprint_CeilingLight_C_1
+[2025.06.02-00.55.49:350][286]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_CeilingLight.Blueprint_CeilingLight as actor: Blueprint_CeilingLight_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.Blueprint_CeilingLight_C_1
+[2025.06.02-00.55.58:809][681]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/Blueprint_CeilingLight.Blueprint_CeilingLight
+[2025.06.02-00.55.58:809][681]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2025.06.02-00.56.09:996][137]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-00.56.09:996][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-00.56.10:125][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.06.02-00.56.33:859][980]LogStreaming: Display: FlushAsyncLoading(648): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.02-00.56.33:901][980]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Smoke01...
+[2025.06.02-00.56.33:916][980]LogAudioDerivedData: Display: Smoke01 compressed to 19.29% (from 462KB to 89KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.06.02-00.56.33:916][980]LogAudio: Display: Chunk stats for (SoundWave /Game/StarterContent/Audio/Smoke01.Smoke01: Duration=0.00 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=91247 bytes, ChunkN=0)
+[2025.06.02-00.56.34:223][990]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_Effect_Smoke.Blueprint_Effect_Smoke_C
+[2025.06.02-00.56.34:223][990]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_Effect_Smoke.Blueprint_Effect_Smoke_C
+[2025.06.02-00.56.34:227][990]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_Effect_Smoke.Blueprint_Effect_Smoke as actor: Blueprint_Effect_Smoke_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.Blueprint_Effect_Smoke_C_0
+[2025.06.02-00.56.34:228][990]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_Effect_Smoke.Blueprint_Effect_Smoke as actor: Blueprint_Effect_Smoke_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.Blueprint_Effect_Smoke_C_0
+[2025.06.02-00.56.35:796][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.06.02-00.56.35:820][ 29]LogEditorActor: Deleted 0 Actors (0.052 secs)
+[2025.06.02-00.56.35:830][ 29]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_Effect_Smoke.Blueprint_Effect_Smoke_C
+[2025.06.02-00.56.35:831][ 29]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_Effect_Smoke.Blueprint_Effect_Smoke_C
+[2025.06.02-00.56.35:834][ 29]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_Effect_Smoke.Blueprint_Effect_Smoke as actor: Blueprint_Effect_Smoke_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.Blueprint_Effect_Smoke_C_1
+[2025.06.02-00.56.35:836][ 29]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_Effect_Smoke.Blueprint_Effect_Smoke as actor: Blueprint_Effect_Smoke_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.Blueprint_Effect_Smoke_C_1
+[2025.06.02-00.56.48:015][629]LogStreaming: Display: FlushAsyncLoading(650): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.02-00.56.48:032][629]LogStaticMesh: Display: Building static mesh SM_Lamp_Wall (Required Memory Estimate: 1.53159 MB)...
+[2025.06.02-00.56.48:038][629]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_Lamp_Wall.SM_Lamp_Wall
+[2025.06.02-00.56.48:062][629]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2025.06.02-00.56.48:502][644]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_WallSconce.Blueprint_WallSconce_C
+[2025.06.02-00.56.48:502][644]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_WallSconce.Blueprint_WallSconce_C
+[2025.06.02-00.56.48:504][644]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_WallSconce.Blueprint_WallSconce as actor: Blueprint_WallSconce_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.Blueprint_WallSconce_C_0
+[2025.06.02-00.56.48:506][644]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_WallSconce.Blueprint_WallSconce as actor: Blueprint_WallSconce_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.Blueprint_WallSconce_C_0
+[2025.06.02-00.56.53:559][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.06.02-00.56.53:592][852]LogEditorActor: Deleted 0 Actors (0.060 secs)
+[2025.06.02-00.56.53:601][852]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_WallSconce.Blueprint_WallSconce_C
+[2025.06.02-00.56.53:601][852]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_WallSconce.Blueprint_WallSconce_C
+[2025.06.02-00.56.53:604][852]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_WallSconce.Blueprint_WallSconce as actor: Blueprint_WallSconce_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.Blueprint_WallSconce_C_1
+[2025.06.02-00.56.53:605][852]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_WallSconce.Blueprint_WallSconce as actor: Blueprint_WallSconce_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.Blueprint_WallSconce_C_1
+[2025.06.02-00.56.59:974][152]Cmd: TRANSACTION UNDO
+[2025.06.02-00.56.59:974][152]LogEditorTransaction: Undo Move Elements
+[2025.06.02-00.57.08:674][548]LogStreaming: Display: FlushAsyncLoading(651): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.02-00.57.08:723][548]LogStaticMesh: Display: Building static mesh Skybox (Required Memory Estimate: 8.176789 MB)...
+[2025.06.02-00.57.08:723][548]LogStaticMesh: Display: Building static mesh SM_Arrows (Required Memory Estimate: 7.34934 MB)...
+[2025.06.02-00.57.08:756][548]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/Blueprints/Assets/SM_Arrows.SM_Arrows
+[2025.06.02-00.57.08:759][548]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2025.06.02-00.57.08:771][548]LogStaticMesh: Built static mesh [0.05s] /Game/StarterContent/Blueprints/Assets/Skybox.Skybox
+[2025.06.02-00.57.08:979][550]LogTexture: Display: Building textures: /Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight (RGBA16F, 7372x3686 x1x1x1) (Required Memory Estimate: 543.287506 MB), EncodeSpeed: Fast
+[2025.06.02-00.57.10:028][550]LogD3D12RHI: Compiled LumenReflectionHardwareRayTracingRGS for RTPSO in 1138.48 ms.
+[2025.06.02-00.57.10:092][550]LogD3D12RHI: Creating RTPSO with 36 shaders (0 cached, 36 new) took 1200.92 ms. Compile time 1170.12 ms, link time 30.73 ms.
+[2025.06.02-00.57.10:532][550]LogD3D12RHI: Creating RTPSO with 24 shaders (16 cached, 8 new) took 607.57 ms. Compile time 599.92 ms, link time 7.60 ms.
+[2025.06.02-00.57.10:691][550]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/BP_LightStudio.BP_LightStudio_C
+[2025.06.02-00.57.10:691][550]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/BP_LightStudio.BP_LightStudio_C
+[2025.06.02-00.57.10:697][550]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/BP_LightStudio.BP_LightStudio as actor: BP_LightStudio_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.BP_LightStudio_C_0
+[2025.06.02-00.57.10:702][550]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/BP_LightStudio.BP_LightStudio as actor: BP_LightStudio_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.BP_LightStudio_C_0
+[2025.06.02-00.57.11:599][552]LogMeshUtilities: Finished distance field build in 2.8s - 126x119x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 43% occupied, 1726 triangles, SM_Arrows
+[2025.06.02-00.57.13:613][569]LogMeshUtilities: Finished distance field build in 2.0s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 1322 triangles, Skybox
+[2025.06.02-00.57.16:212][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.06.02-00.57.16:250][582]LogEditorActor: Deleted 0 Actors (0.066 secs)
+[2025.06.02-00.57.16:267][582]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/BP_LightStudio.BP_LightStudio_C
+[2025.06.02-00.57.16:267][582]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/BP_LightStudio.BP_LightStudio_C
+[2025.06.02-00.57.16:272][582]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/BP_LightStudio.BP_LightStudio as actor: BP_LightStudio_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.BP_LightStudio_C_1
+[2025.06.02-00.57.16:275][582]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/BP_LightStudio.BP_LightStudio as actor: BP_LightStudio_C /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.BP_LightStudio_C_1
+[2025.06.02-00.57.18:899][586]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.06.02-00.57.18:899][586]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.06.02-00.57.18:899][586]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.06.02-00.57.18:899][586]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.06.02-00.57.23:758][757]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/BP_LightStudio.BP_LightStudio
+[2025.06.02-00.57.23:758][757]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2025.06.02-00.57.37:736][230]LogEditorTransaction: Undo Move Elements
+[2025.06.02-00.57.37:843][231]LogD3D12RHI: Creating RTPSO with 38 shaders (0 cached, 2 new) took 80.75 ms. Compile time 78.19 ms, link time 2.53 ms.
+[2025.06.02-00.57.38:412][245]LogEditorTransaction: Undo Place Objects
+[2025.06.02-00.57.39:344][279]LogEditorTransaction: Undo Clicking on Elements
+[2025.06.02-00.57.39:865][300]LogEditorTransaction: Undo Move Elements
+[2025.06.02-00.57.40:211][315]LogEditorTransaction: Undo Clicking on Elements
+[2025.06.02-00.57.40:473][321]LogEditorTransaction: Undo Clicking on Elements
+[2025.06.02-00.57.40:683][328]LogEditorTransaction: Undo Place Objects
+[2025.06.02-00.57.40:885][331]LogEditorTransaction: Undo Clicking on Elements
+[2025.06.02-00.57.41:077][337]LogEditorTransaction: Undo Place Objects
+[2025.06.02-00.57.41:216][340]LogEditorTransaction: Undo Move Elements
+[2025.06.02-00.57.41:462][349]LogEditorTransaction: Undo Move Elements
+[2025.06.02-00.57.41:644][353]LogEditorTransaction: Undo Place Objects
+[2025.06.02-00.57.41:863][355]LogEditorTransaction: Undo Clicking on Elements
+[2025.06.02-00.57.42:075][360]LogEditorTransaction: Undo Move Elements
+[2025.06.02-00.57.42:374][373]LogEditorTransaction: Undo Place Objects
+[2025.06.02-00.57.42:600][377]LogEditorTransaction: Undo Clicking on Elements
+[2025.06.02-00.57.43:056][395]LogEditorTransaction: Undo Place Objects
+[2025.06.02-00.57.43:263][401]LogEditorTransaction: Undo Place Objects
+[2025.06.02-00.58.13:161][682]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-00.58.13:161][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-00.58.13:351][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display: ================================================
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display: Total job queries 424, among them cache hits 53 (12.50%), DDC hits 312 (73.58%), Duplicates 5 (1.18%)
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display: Tracking 366 distinct input hashes that result in 296 distinct outputs (80.87%)
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display: RAM used: 174.25 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display: Shaders Compiled: 54
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display: Jobs assigned 54, completed 54 (100%)
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display: Average time worker was idle: 21.12 s
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display: Time job spent in pending queue: average 1.05 s, longest 4.44 s
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display: Job execution time: average 1.47 s, max 6.17 s
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display: Job life time (pending + execution): average 2.53 s, max 6.25
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display: Shader code size: average 9.198 KiB, min 2.703 KiB, max 31.207 KiB
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 18.36 s
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display: Jobs were issued in 54 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display: Average processing rate: 2.94 jobs/sec
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display: Total thread time: 53.592 s
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display: Total thread preprocess time: 8.805 s
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display: Percentage time preprocessing: 16.43%
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display: Effective parallelization: 2.92 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 4.86 sec, max 4.86 sec, min 4.86 sec)
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 1.23 sec, max 1.43 sec, min 1.10 sec)
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    4 times, average 1.17 sec, max 1.82 sec, min 0.47 sec)
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   15 times, average 1.12 sec, max 2.53 sec, min 0.71 sec)
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    4 times, average 0.87 sec, max 1.40 sec, min 0.53 sec)
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 31.32% of total time (compiled   15 times, average 1.12 sec, max 2.53 sec, min 0.71 sec)
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.17% of total time (compiled   11 times, average 0.79 sec, max 1.92 sec, min 0.33 sec)
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.07% of total time (compiled   10 times, average 0.86 sec, max 2.38 sec, min 0.37 sec)
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 9.07% of total time (compiled    1 times, average 4.86 sec, max 4.86 sec, min 4.86 sec)
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.74% of total time (compiled    4 times, average 1.17 sec, max 1.82 sec, min 0.47 sec)
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display: === Material stats ===
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display: Materials Translated:    174
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display: Material Translation Only: 0.08 s (50%)
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display: Material Cache Hits: 24 (14%)
+[2025.06.02-00.58.32:816][680]LogShaderCompilers: Display: ================================================
+[2025.06.02-00.58.42:095][141]LogStreaming: Display: FlushAsyncLoading(652): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.02-00.58.42:131][141]LogStaticMesh: Display: Building static mesh SM_Chair (Required Memory Estimate: 2.53377 MB)...
+[2025.06.02-00.58.42:140][141]LogStaticMesh: Adjacency [0.00s], tris: 1782, UVs 1
+[2025.06.02-00.58.42:143][141]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.06.02-00.58.42:144][141]LogStaticMesh: Leaves [0.00s]
+[2025.06.02-00.58.42:236][143]LogStaticMesh: Reduce [0.09s]
+[2025.06.02-00.58.42:294][145]LogStaticMesh: Fallback [0.06s], num tris: 816
+[2025.06.02-00.58.42:295][146]LogStaticMesh: ConstrainClusters:
+[2025.06.02-00.58.42:295][146]LogStaticMesh:   Input: 28 Clusters, 3546 Triangles and 3467 Vertices
+[2025.06.02-00.58.42:295][146]LogStaticMesh:   Output without splits: 28 Clusters, 3546 Triangles and 3505 Vertices
+[2025.06.02-00.58.42:295][146]LogStaticMesh:   Output with splits: 28 Clusters, 3546 Triangles and 3505 Vertices
+[2025.06.02-00.58.42:295][146]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 28, Slow Path Clusters: 0, 1 Material: 28, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.06.02-00.58.42:297][146]LogStaticMesh: WritePages:
+[2025.06.02-00.58.42:297][146]LogStaticMesh:   Root: GPU size: 32420 bytes. 1 Pages. 32420.000 bytes per page (98.938% utilization).
+[2025.06.02-00.58.42:297][146]LogStaticMesh:   Streaming: GPU size: 11936 bytes. 1 Pages (1 with relative encoding). 11936.000 bytes per page (9.106% utilization).
+[2025.06.02-00.58.42:297][146]LogStaticMesh:   Page data disk size: 40440 bytes. Fixup data size: 256 bytes.
+[2025.06.02-00.58.42:297][146]LogStaticMesh:   Total GPU size: 44356 bytes, Total disk size: 40696 bytes.
+[2025.06.02-00.58.42:297][146]LogStaticMesh: Encode [0.00s]
+[2025.06.02-00.58.42:297][146]LogStaticMesh: Nanite build [0.16s]
+
+[2025.06.02-00.58.42:303][146]LogStaticMesh: Built static mesh [0.17s] /Game/StarterContent/Props/SM_Chair.SM_Chair
+[2025.06.02-00.58.42:361][148]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Chair.SM_Chair
+[2025.06.02-00.58.42:362][148]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Chair.SM_Chair
+[2025.06.02-00.58.42:363][148]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_Chair.SM_Chair as actor: StaticMeshActor /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.StaticMeshActor_454
+[2025.06.02-00.58.44:354][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.06.02-00.58.44:360][196]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.06.02-00.58.44:369][196]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Chair.SM_Chair
+[2025.06.02-00.58.44:369][196]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Chair.SM_Chair
+[2025.06.02-00.58.44:372][196]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_Chair.SM_Chair as actor: StaticMeshActor /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.StaticMeshActor_459
+[2025.06.02-00.58.46:574][253]LogStreaming: Display: FlushAsyncLoading(653): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.02-00.58.46:595][253]LogStaticMesh: Display: Building static mesh SM_TableRound (Required Memory Estimate: 6.824255 MB)...
+[2025.06.02-00.58.46:609][253]LogStaticMesh: Adjacency [0.00s], tris: 4320, UVs 2
+[2025.06.02-00.58.46:622][253]LogStaticMesh: Clustering [0.01s]. Ratio: 1.029412
+[2025.06.02-00.58.46:622][253]LogStaticMesh: Leaves [0.00s]
+[2025.06.02-00.58.46:796][253]LogStaticMesh: Reduce [0.17s]
+[2025.06.02-00.58.46:801][253]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_TableRound.SM_TableRound
+[2025.06.02-00.58.46:801][253]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_TableRound.SM_TableRound
+[2025.06.02-00.58.46:803][253]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_TableRound.SM_TableRound as actor: StaticMeshActor /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.StaticMeshActor_711
+[2025.06.02-00.58.46:820][253]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_TableRound) ...
+[2025.06.02-00.58.46:854][253]LogStaticMesh: Fallback [0.06s], num tris: 1014
+[2025.06.02-00.58.46:856][253]LogStaticMesh: ConstrainClusters:
+[2025.06.02-00.58.46:856][253]LogStaticMesh:   Input: 72 Clusters, 8982 Triangles and 10701 Vertices
+[2025.06.02-00.58.46:856][253]LogStaticMesh:   Output without splits: 72 Clusters, 8982 Triangles and 10702 Vertices
+[2025.06.02-00.58.46:856][253]LogStaticMesh:   Output with splits: 72 Clusters, 8982 Triangles and 10702 Vertices
+[2025.06.02-00.58.46:856][253]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 72, Slow Path Clusters: 0, 1 Material: 72, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.06.02-00.58.46:859][253]LogStaticMesh: WritePages:
+[2025.06.02-00.58.46:859][253]LogStaticMesh:   Root: GPU size: 31848 bytes. 1 Pages. 31848.000 bytes per page (97.192% utilization).
+[2025.06.02-00.58.46:859][253]LogStaticMesh:   Streaming: GPU size: 134076 bytes. 2 Pages (2 with relative encoding). 67038.000 bytes per page (51.146% utilization).
+[2025.06.02-00.58.46:859][253]LogStaticMesh:   Page data disk size: 140268 bytes. Fixup data size: 464 bytes.
+[2025.06.02-00.58.46:859][253]LogStaticMesh:   Total GPU size: 165924 bytes, Total disk size: 140732 bytes.
+[2025.06.02-00.58.46:859][253]LogStaticMesh: Encode [0.00s]
+[2025.06.02-00.58.46:859][253]LogStaticMesh: Nanite build [0.25s]
+
+[2025.06.02-00.58.46:864][253]LogStaticMesh: Built static mesh [0.27s] /Game/StarterContent/Props/SM_TableRound.SM_TableRound
+[2025.06.02-00.58.49:713][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.06.02-00.58.49:717][340]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2025.06.02-00.58.49:724][340]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_TableRound.SM_TableRound
+[2025.06.02-00.58.49:724][340]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_TableRound.SM_TableRound
+[2025.06.02-00.58.49:727][340]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_TableRound.SM_TableRound as actor: StaticMeshActor /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.StaticMeshActor_712
+[2025.06.02-00.58.49:773][340]LogPSOHitching: Encountered 450 PSO creation hitches so far (196 graphics, 254 compute). 0 of them were precached.
+[2025.06.02-00.59.04:537][982]Cmd: TRANSACTION UNDO
+[2025.06.02-00.59.04:537][982]LogEditorTransaction: Undo Move Elements
+[2025.06.02-00.59.36:628][469]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9258.375000
+[2025.06.02-00.59.36:811][479]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.02-00.59.36:811][479]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9258.539062, Update Interval: 317.651917
+[2025.06.02-00.59.49:687][ 99]LogStreaming: Display: FlushAsyncLoading(654): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.02-00.59.49:918][103]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.06.02-00.59.53:603][242]Cmd: TRANSACTION UNDO
+[2025.06.02-00.59.53:603][242]LogEditorTransaction: Undo Place Objects
+[2025.06.02-01.00.22:669][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.06.02-01.00.24:154][666]LogSlate: Window 'Save Content' being destroyed
+[2025.06.02-01.00.24:163][666]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.02-01.00.24:296][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.06.02-01.00.24:513][666]LogSavePackage: Moving output files for package: /Game/_BachelorsProject/Levels/gameplaymechanics
+[2025.06.02-01.00.24:514][666]LogSavePackage: Moving '../../../../../../Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Saved/gameplaymechanics7423B4F7433F55AD94C57DBD3781CAA6.tmp' to '../../../../../../Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Levels/gameplaymechanics.umap'
+[2025.06.02-01.00.24:547][666]LogFileHelpers: Saving map 'gameplaymechanics' took 0.328
+[2025.06.02-01.00.24:585][666]LogFileHelpers: InternalPromptForCheckoutAndSave took 422.814 ms (total: 2.01 sec)
+[2025.06.02-01.00.24:585][666]LogStreaming: Display: FlushAsyncLoading(655): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.02-01.00.24:587][666]LogStreaming: Display: ImportPackages: SkipPackage: /Game/StarterContent/Maps/Advanced_Lighting (0x1CBD19FFB0C15853) /Game/StarterContent/Maps/Advanced_Lighting (0x1CBD19FFB0C15853) - Skipping non mounted imported package /Game/StarterContent/Maps/Advanced_Lighting_BuiltData (0xC78F28A28853F930)
+[2025.06.02-01.00.24:635][666]LogStaticMesh: Display: Building static mesh SM_AssetPlatform (Required Memory Estimate: 5.81496 MB)...
+[2025.06.02-01.00.24:640][666]LogStaticMesh: Display: Building static mesh SM_ColorCalibrator (Required Memory Estimate: 59.138803 MB)...
+[2025.06.02-01.00.24:644][666]LogChaosDD: Creating Chaos Debug Draw Scene for world Advanced_Lighting
+[2025.06.02-01.00.24:649][666]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting
+[2025.06.02-01.00.24:662][666]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform
+[2025.06.02-01.00.24:776][666]LogWorld: UWorld::CleanupWorld for gameplaymechanics, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.00.24:777][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.00.24:802][666]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.02-01.00.24:819][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.06.02-01.00.24:840][666]LogStaticMesh: Display: Waiting for static meshes to be ready 1/2 (/Engine/EditorMeshes/ColorCalibrator/SM_ColorCalibrator) ...
+[2025.06.02-01.00.24:869][666]LogStaticMesh: Built static mesh [0.23s] /Engine/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.SM_ColorCalibrator
+[2025.06.02-01.00.25:001][666]LogWorld: UWorld::CleanupWorld for Advanced_Lighting, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.00.25:001][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.00.25:024][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.06.02-01.00.25:046][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.06.02-01.00.25:048][666]LogStreaming: Display: ImportPackages: SkipPackage: /Game/StarterContent/Maps/Advanced_Lighting (0x1CBD19FFB0C15853) /Game/StarterContent/Maps/Advanced_Lighting (0x1CBD19FFB0C15853) - Skipping non mounted imported package /Game/StarterContent/Maps/Advanced_Lighting_BuiltData (0xC78F28A28853F930)
+[2025.06.02-01.00.25:052][666]LogAudio: Display: Audio Device (ID: 1) registered with world 'Advanced_Lighting'.
+[2025.06.02-01.00.25:052][666]LogChaosDD: Creating Chaos Debug Draw Scene for world Advanced_Lighting
+[2025.06.02-01.00.25:066][666]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.06.02-01.00.25:088][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.06.02-01.00.25:114][666]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.06.02-01.00.25:114][666]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.085ms to complete.
+[2025.06.02-01.00.25:176][666]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.02-01.00.25:176][666]LogContentValidation: Enabled validators:
+[2025.06.02-01.00.25:176][666]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.02-01.00.25:177][666]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.02-01.00.25:177][666]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.02-01.00.25:177][666]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.02-01.00.25:177][666]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.02-01.00.25:177][666]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.02-01.00.25:240][666]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/StarterContent/Maps/Advanced_Lighting_BuiltData which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.06.02-01.00.25:240][666]LoadErrors: Warning: While trying to load package /Game/StarterContent/Maps/Advanced_Lighting, a dependent package /Game/StarterContent/Maps/Advanced_Lighting_BuiltData was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/StarterContent/Maps/Advanced_Lighting_BuiltData has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.06.02-01.00.25:240][666]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/StarterContent/Maps/Advanced_Lighting_BuiltData which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.06.02-01.00.25:387][667]LogD3D12RHI: Creating RTPSO with 41 shaders (0 cached, 3 new) took 120.16 ms. Compile time 115.21 ms, link time 4.92 ms.
+[2025.06.02-01.00.30:000][786]LogD3D12RHI: Creating RTPSO with 45 shaders (0 cached, 4 new) took 132.55 ms. Compile time 128.27 ms, link time 4.22 ms.
+[2025.06.02-01.00.31:792][853]LogD3D12RHI: Creating RTPSO with 47 shaders (0 cached, 2 new) took 84.70 ms. Compile time 81.70 ms, link time 2.97 ms.
+[2025.06.02-01.00.51:765][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.06.02-01.00.51:769][170]LogStreaming: Display: FlushAsyncLoading(657): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.02-01.00.51:770][170]LogStreaming: Display: ImportPackages: SkipPackage: /Game/StarterContent/Maps/Minimal_Default (0x1D2862B59E1E8CC1) /Game/StarterContent/Maps/Minimal_Default (0x1D2862B59E1E8CC1) - Skipping non mounted imported package /Game/StarterContent/Maps/Minimal_Default_BuiltData (0x27576D84F925CE21)
+[2025.06.02-01.00.51:896][170]LogStaticMesh: Display: Building static mesh Floor_400x400 (Required Memory Estimate: 0.026896 MB)...
+[2025.06.02-01.00.51:897][170]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2025.06.02-01.00.51:909][170]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Starter_Wind05...
+[2025.06.02-01.00.51:922][170]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Starter_Birds01...
+[2025.06.02-01.00.51:935][170]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Starter_Wind06...
+[2025.06.02-01.00.51:940][170]LogStaticMesh: Display: Building static mesh SM_Statue (Required Memory Estimate: 6.357609 MB)...
+[2025.06.02-01.00.51:944][170]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default
+[2025.06.02-01.00.51:947][170]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2025.06.02-01.00.51:974][170]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/Props/SM_Statue.SM_Statue
+[2025.06.02-01.00.51:978][170]LogAudioDerivedData: Display: Starter_Wind05 compressed to 18.72% (from 2,256KB to 422KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.06.02-01.00.51:980][170]LogAudio: Display: Chunk stats for (SoundWave /Game/StarterContent/Audio/Starter_Wind05.Starter_Wind05: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=3, Chunk0=28 bytes, Chunk1=261247 bytes, ChunkN=171353)
+[2025.06.02-01.00.52:002][170]LogWorld: UWorld::CleanupWorld for Advanced_Lighting, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.00.52:002][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.00.52:014][170]LogAudioDerivedData: Display: Starter_Wind06 compressed to 27.40% (from 2,141KB to 586KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.06.02-01.00.52:016][170]LogAudio: Display: Chunk stats for (SoundWave /Game/StarterContent/Audio/Starter_Wind06.Starter_Wind06: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=4, Chunk0=28 bytes, Chunk1=261725 bytes, ChunkN=261389)
+[2025.06.02-01.00.52:021][170]LogAudioDerivedData: Display: Starter_Birds01 compressed to 19.24% (from 2,624KB to 504KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.06.02-01.00.52:023][170]LogAudio: Display: Chunk stats for (SoundWave /Game/StarterContent/Audio/Starter_Birds01.Starter_Birds01: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=3, Chunk0=28 bytes, Chunk1=261557 bytes, ChunkN=255517)
+[2025.06.02-01.00.52:025][170]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.02-01.00.52:028][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.06.02-01.00.52:175][170]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.00.52:175][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.00.52:198][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.06.02-01.00.52:220][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.06.02-01.00.52:223][170]LogStreaming: Display: ImportPackages: SkipPackage: /Game/StarterContent/Maps/Minimal_Default (0x1D2862B59E1E8CC1) /Game/StarterContent/Maps/Minimal_Default (0x1D2862B59E1E8CC1) - Skipping non mounted imported package /Game/StarterContent/Maps/Minimal_Default_BuiltData (0x27576D84F925CE21)
+[2025.06.02-01.00.52:226][170]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2025.06.02-01.00.52:226][170]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default
+[2025.06.02-01.00.52:241][170]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.06.02-01.00.52:266][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.06.02-01.00.52:292][170]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.06.02-01.00.52:292][170]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.066ms to complete.
+[2025.06.02-01.00.52:343][170]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/StarterContent/Maps/Minimal_Default_BuiltData which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.06.02-01.00.52:344][170]LoadErrors: Warning: While trying to load package /Game/StarterContent/Maps/Minimal_Default, a dependent package /Game/StarterContent/Maps/Minimal_Default_BuiltData was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/StarterContent/Maps/Minimal_Default_BuiltData has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.06.02-01.00.52:344][170]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/StarterContent/Maps/Minimal_Default_BuiltData which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.06.02-01.01.06:278][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.06.02-01.01.06:284][913]LogStreaming: Display: FlushAsyncLoading(662): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.02-01.01.06:286][913]LogStreaming: Display: ImportPackages: SkipPackage: /Game/StarterContent/Maps/StarterMap (0xA5CFBBFAC1508636) /Game/StarterContent/Maps/StarterMap (0xA5CFBBFAC1508636) - Skipping non mounted imported package /Game/StarterContent/Maps/StarterMap_BuiltData (0x368E5D912E17F05C)
+[2025.06.02-01.01.06:930][913]LogStaticMesh: Display: Building static mesh Wall_400x200 (Required Memory Estimate: 0.02689 MB)...
+[2025.06.02-01.01.06:930][913]LogStaticMesh: Display: Building static mesh Wall_Door_400x300 (Required Memory Estimate: 0.077385 MB)...
+[2025.06.02-01.01.06:930][913]LogStaticMesh: Display: Building static mesh Wall_Window_400x300 (Required Memory Estimate: 0.108694 MB)...
+[2025.06.02-01.01.06:931][913]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.06.02-01.01.06:931][913]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.06.02-01.01.06:931][913]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Wall_Window_400x300.Wall_Window_400x300
+[2025.06.02-01.01.06:938][913]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Collapse01...
+[2025.06.02-01.01.06:949][913]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Collapse02...
+[2025.06.02-01.01.06:950][913]LogAudioDerivedData: Display: Collapse01 compressed to 19.53% (from 337KB to 65KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.06.02-01.01.06:950][913]LogAudio: Display: Chunk stats for (SoundWave /Game/StarterContent/Audio/Collapse01.Collapse01: Duration=0.00 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=67503 bytes, ChunkN=0)
+[2025.06.02-01.01.06:959][913]LogAudioDerivedData: Display: Collapse02 compressed to 20.10% (from 335KB to 67KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.06.02-01.01.06:959][913]LogAudio: Display: Chunk stats for (SoundWave /Game/StarterContent/Audio/Collapse02.Collapse02: Duration=0.00 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=69071 bytes, ChunkN=0)
+[2025.06.02-01.01.06:972][913]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Starter_Music01...
+[2025.06.02-01.01.06:972][913]LogStaticMesh: Display: Building static mesh SM_CornerFrame (Required Memory Estimate: 0.708474 MB)...
+[2025.06.02-01.01.06:972][913]LogStaticMesh: Display: Building static mesh MaterialSphere (Required Memory Estimate: 1.096681 MB)...
+[2025.06.02-01.01.06:972][913]LogStaticMesh: Display: Building static mesh SM_GlassWindow (Required Memory Estimate: 0.81873 MB)...
+[2025.06.02-01.01.06:972][913]LogStaticMesh: Display: Building static mesh SM_PillarFrame (Required Memory Estimate: 0.986264 MB)...
+[2025.06.02-01.01.06:977][913]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2025.06.02-01.01.06:977][913]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_GlassWindow.SM_GlassWindow
+[2025.06.02-01.01.06:977][913]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_PillarFrame.SM_PillarFrame
+[2025.06.02-01.01.06:978][913]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/MaterialSphere.MaterialSphere
+[2025.06.02-01.01.06:981][913]LogStaticMesh: Display: Building static mesh SM_PillarFrame300 (Required Memory Estimate: 0.986264 MB)...
+[2025.06.02-01.01.06:981][913]LogStaticMesh: Display: Building static mesh SM_WindowFrame (Required Memory Estimate: 0.209651 MB)...
+[2025.06.02-01.01.06:981][913]LogStaticMesh: Display: Building static mesh Shape_Cube (Required Memory Estimate: 0.083673 MB)...
+[2025.06.02-01.01.06:982][913]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube
+[2025.06.02-01.01.06:982][913]LogStaticMesh: Display: Building static mesh Shape_QuadPyramid (Required Memory Estimate: 0.020575 MB)...
+[2025.06.02-01.01.06:983][913]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/SM_WindowFrame.SM_WindowFrame
+[2025.06.02-01.01.06:983][913]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_QuadPyramid.Shape_QuadPyramid
+[2025.06.02-01.01.06:984][913]LogStaticMesh: Display: Building static mesh Shape_Sphere (Required Memory Estimate: 1.522745 MB)...
+[2025.06.02-01.01.06:987][913]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_PillarFrame300.SM_PillarFrame300
+[2025.06.02-01.01.06:987][913]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Fire_Sparks01...
+[2025.06.02-01.01.06:991][913]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_Sphere.Shape_Sphere
+[2025.06.02-01.01.07:014][913]LogAudioDerivedData: Display: Fire_Sparks01 compressed to 23.14% (from 775KB to 179KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.06.02-01.01.07:015][913]LogAudio: Display: Chunk stats for (SoundWave /Game/StarterContent/Audio/Fire_Sparks01.Fire_Sparks01: Duration=0.00 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=183697 bytes, ChunkN=0)
+[2025.06.02-01.01.07:104][913]LogChaosDD: Creating Chaos Debug Draw Scene for world StarterMap
+[2025.06.02-01.01.07:125][913]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/StarterMap.StarterMap
+[2025.06.02-01.01.07:184][913]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.01.07:184][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.01.07:208][913]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.02-01.01.07:211][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.06.02-01.01.07:223][913]LogAudioDerivedData: Display: Starter_Music01 compressed to 14.50% (from 8,244KB to 1,195KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.06.02-01.01.07:228][913]LogAudio: Display: Chunk stats for (SoundWave /Game/StarterContent/Audio/Starter_Music01.Starter_Music01: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=6, Chunk0=28 bytes, Chunk1=261119 bytes, ChunkN=261757)
+[2025.06.02-01.01.07:608][913]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.01.07:609][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.01.07:635][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.06.02-01.01.07:656][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.06.02-01.01.07:660][913]LogStreaming: Display: ImportPackages: SkipPackage: /Game/StarterContent/Maps/StarterMap (0xA5CFBBFAC1508636) /Game/StarterContent/Maps/StarterMap (0xA5CFBBFAC1508636) - Skipping non mounted imported package /Game/StarterContent/Maps/StarterMap_BuiltData (0x368E5D912E17F05C)
+[2025.06.02-01.01.07:712][913]LogAudio: Display: Audio Device (ID: 1) registered with world 'StarterMap'.
+[2025.06.02-01.01.07:713][913]LogChaosDD: Creating Chaos Debug Draw Scene for world StarterMap
+[2025.06.02-01.01.07:750][913]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.06.02-01.01.07:776][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.06.02-01.01.07:803][913]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.06.02-01.01.07:803][913]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.114ms to complete.
+[2025.06.02-01.01.07:887][913]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/StarterContent/Maps/StarterMap_BuiltData which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.06.02-01.01.07:887][913]LoadErrors: Warning: While trying to load package /Game/StarterContent/Maps/StarterMap, a dependent package /Game/StarterContent/Maps/StarterMap_BuiltData was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/StarterContent/Maps/StarterMap_BuiltData has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/StarterContent/Maps/StarterMap_BuiltData.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.06.02-01.01.07:887][913]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/StarterContent/Maps/StarterMap_BuiltData which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.06.02-01.01.25:616][594]LogPSOHitching: Encountered 500 PSO creation hitches so far (245 graphics, 255 compute). 0 of them were precached.
+[2025.06.02-01.01.31:002][801]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.02-01.01.31:034][801]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.02-01.01.31:034][801]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_StarterMap
+[2025.06.02-01.01.31:072][801]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037685s)
+[2025.06.02-01.01.31:072][801]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/StarterMap.StarterMap to /Game/StarterContent/Maps/UEDPIE_0_StarterMap.StarterMap (0.037897s)
+[2025.06.02-01.01.31:101][801]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2025.06.02-01.01.31:111][801]LogChaosDD: Creating Chaos Debug Draw Scene for world StarterMap
+[2025.06.02-01.01.31:114][801]LogPlayLevel: PIE: World Init took: (0.003579s)
+[2025.06.02-01.01.31:117][801]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.06.02-01.01.31:117][801]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.02-01.01.31:117][801]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.02-01.01.31:117][801]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.02-01.01.31:117][801]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.02-01.01.31:117][801]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.02-01.01.31:117][801]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.02-01.01.31:117][801]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.02-01.01.31:117][801]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.02-01.01.31:117][801]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.02-01.01.31:117][801]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.02-01.01.31:117][801]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.02-01.01.31:123][801]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.02-01.01.31:218][801]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.06.02-01.01.31:218][801]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.02-01.01.31:218][801]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.02-01.01.31:218][801]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.02-01.01.31:219][801]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.06.02-01.01.31:219][801]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.06.02-01.01.31:225][801]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.06.02-01.01.31:225][801]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.06.02-01.01.31:225][801]LogInit: FAudioDevice initialized with ID 10.
+[2025.06.02-01.01.31:225][801]LogAudio: Display: Audio Device (ID: 10) registered with world 'StarterMap'.
+[2025.06.02-01.01.31:225][801]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.06.02-01.01.31:230][801]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.06.02-01.01.31:247][801]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_StarterMap.StarterMap up for play (max tick rate 0) at 2025.06.02-03.01.31
+[2025.06.02-01.01.31:249][801]LogWorld: Bringing up level for play took: 0.018807
+[2025.06.02-01.01.31:254][801]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2025.06.02-01.01.31:262][801]LogBlueprintUserMessages: [BP_ThirdPersonGameMode_C_0] 0
+[2025.06.02-01.01.31:264][801]PIE: Server logged in
+[2025.06.02-01.01.31:266][801]PIE: Play in editor total start time 0.233 seconds.
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display: ================================================
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display: Total job queries 681, among them cache hits 57 (8.37%), DDC hits 318 (46.70%), Duplicates 5 (0.73%)
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display: Tracking 619 distinct input hashes that result in 412 distinct outputs (66.56%)
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display: RAM used: 269.30 KiB of 819.20 MiB budget. Usage: 0.03%
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display: Shaders Compiled: 265
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display: Jobs assigned 274, completed 265 (96.72%)
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display: Average time worker was idle: 10.86 s
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display: Time job spent in pending queue: average 7.02 s, longest 23.65 s
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display: Job execution time: average 1.50 s, max 6.17 s
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display: Job life time (pending + execution): average 7.98 s, max 23.69
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display: Shader code size: average 8.296 KiB, min 2.703 KiB, max 31.207 KiB
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 63.33 s
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display: Jobs were issued in 274 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display: Average processing rate: 4.18 jobs/sec
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display: Total thread time: 323.127 s
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display: Total thread preprocess time: 12.829 s
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display: Percentage time preprocessing: 3.97%
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display: Effective parallelization: 5.10 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 4.86 sec, max 4.86 sec, min 4.86 sec)
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 2.38 sec, max 2.39 sec, min 2.37 sec)
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   23 times, average 2.32 sec, max 3.01 sec, min 1.10 sec)
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    2 times, average 1.93 sec, max 1.93 sec, min 1.92 sec)
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   50 times, average 1.41 sec, max 2.38 sec, min 0.37 sec)
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.79% of total time (compiled   50 times, average 1.41 sec, max 2.38 sec, min 0.37 sec)
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display:                                                 FLumenCardPS - 16.86% of total time (compiled   51 times, average 1.07 sec, max 1.48 sec, min 0.53 sec)
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 16.48% of total time (compiled   23 times, average 2.32 sec, max 3.01 sec, min 1.10 sec)
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.40% of total time (compiled   57 times, average 0.93 sec, max 1.92 sec, min 0.33 sec)
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display:                                                 FLumenCardVS - 14.60% of total time (compiled   50 times, average 0.94 sec, max 1.82 sec, min 0.47 sec)
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display: === Material stats ===
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display: Materials Translated:    222
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display: Material Translation Only: 0.10 s (50%)
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display: Material Cache Hits: 24 (11%)
+[2025.06.02-01.01.32:966][807]LogShaderCompilers: Display: ================================================
+[2025.06.02-01.01.41:179][883]LogD3D12RHI: Creating RTPSO with 85 shaders (0 cached, 38 new) took 619.42 ms. Compile time 616.36 ms, link time 3.01 ms.
+[2025.06.02-01.02.48:870][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.02-01.02.48:870][973]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_StarterMap
+[2025.06.02-01.02.48:871][973]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2025.06.02-01.02.48:871][973]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.02.48:874][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.02.48:881][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.02-01.02.48:887][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.02.48:906][973]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.02-01.02.48:906][973]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.06.02-01.02.48:907][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.06.02-01.02.48:909][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.06.02-01.02.48:915][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.02-01.02.48:920][973]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2025.06.02-01.02.48:970][974]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2025.06.02-01.03.00:751][491]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.02-01.03.00:751][491]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_StarterMap
+[2025.06.02-01.03.00:767][491]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015241s)
+[2025.06.02-01.03.00:767][491]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/StarterMap.StarterMap to /Game/StarterContent/Maps/UEDPIE_0_StarterMap.StarterMap (0.015285s)
+[2025.06.02-01.03.00:790][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.06.02-01.03.00:792][491]LogChaosDD: Creating Chaos Debug Draw Scene for world StarterMap
+[2025.06.02-01.03.00:795][491]LogPlayLevel: PIE: World Init took: (0.001863s)
+[2025.06.02-01.03.00:796][491]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.06.02-01.03.00:796][491]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.02-01.03.00:796][491]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.02-01.03.00:796][491]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.02-01.03.00:796][491]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.02-01.03.00:796][491]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.02-01.03.00:796][491]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.02-01.03.00:796][491]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.02-01.03.00:796][491]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.02-01.03.00:796][491]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.02-01.03.00:796][491]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.02-01.03.00:796][491]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.02-01.03.00:799][491]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.02-01.03.00:851][491]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.06.02-01.03.00:852][491]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.02-01.03.00:852][491]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.02-01.03.00:852][491]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.02-01.03.00:852][491]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.06.02-01.03.00:852][491]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.06.02-01.03.00:855][491]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.06.02-01.03.00:855][491]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.06.02-01.03.00:855][491]LogInit: FAudioDevice initialized with ID 11.
+[2025.06.02-01.03.00:855][491]LogAudio: Display: Audio Device (ID: 11) registered with world 'StarterMap'.
+[2025.06.02-01.03.00:855][491]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.06.02-01.03.00:858][491]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.06.02-01.03.00:866][491]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_StarterMap.StarterMap up for play (max tick rate 0) at 2025.06.02-03.03.00
+[2025.06.02-01.03.00:867][491]LogWorld: Bringing up level for play took: 0.008422
+[2025.06.02-01.03.00:870][491]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2025.06.02-01.03.00:874][491]LogBlueprintUserMessages: [BP_ThirdPersonGameMode_C_0] 0
+[2025.06.02-01.03.00:875][491]PIE: Server logged in
+[2025.06.02-01.03.00:876][491]PIE: Play in editor total start time 0.124 seconds.
+[2025.06.02-01.03.04:424][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.02-01.03.04:424][652]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_StarterMap
+[2025.06.02-01.03.04:424][652]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2025.06.02-01.03.04:425][652]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.03.04:429][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.03.04:438][652]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.02-01.03.04:446][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.03.04:469][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.02-01.03.04:470][652]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.06.02-01.03.04:470][652]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.06.02-01.03.04:472][652]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.06.02-01.03.04:486][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.06.02-01.03.04:599][653]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2025.06.02-01.03.08:161][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.06.02-01.03.08:165][677]LogStreaming: Display: FlushAsyncLoading(669): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.02-01.03.08:166][677]LogStreaming: Display: ImportPackages: SkipPackage: /Game/StarterContent/Maps/Minimal_Default (0x1D2862B59E1E8CC1) /Game/StarterContent/Maps/Minimal_Default (0x1D2862B59E1E8CC1) - Skipping non mounted imported package /Game/StarterContent/Maps/Minimal_Default_BuiltData (0x27576D84F925CE21)
+[2025.06.02-01.03.08:170][677]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default
+[2025.06.02-01.03.08:522][677]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2025.06.02-01.03.08:586][677]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.03.08:586][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.03.08:606][677]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.02-01.03.08:611][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.06.02-01.03.08:615][677]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.03.08:615][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.03.08:639][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.06.02-01.03.08:660][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.06.02-01.03.08:663][677]LogStreaming: Display: ImportPackages: SkipPackage: /Game/StarterContent/Maps/Minimal_Default (0x1D2862B59E1E8CC1) /Game/StarterContent/Maps/Minimal_Default (0x1D2862B59E1E8CC1) - Skipping non mounted imported package /Game/StarterContent/Maps/Minimal_Default_BuiltData (0x27576D84F925CE21)
+[2025.06.02-01.03.08:666][677]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2025.06.02-01.03.08:667][677]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default
+[2025.06.02-01.03.08:680][677]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.06.02-01.03.08:703][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.06.02-01.03.08:728][677]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.06.02-01.03.08:730][677]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.933ms to complete.
+[2025.06.02-01.03.08:789][677]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/StarterContent/Maps/Minimal_Default_BuiltData which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.06.02-01.03.08:789][677]LoadErrors: Warning: While trying to load package /Game/StarterContent/Maps/Minimal_Default, a dependent package /Game/StarterContent/Maps/Minimal_Default_BuiltData was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/StarterContent/Maps/Minimal_Default_BuiltData has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.06.02-01.03.08:790][677]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/StarterContent/Maps/Minimal_Default_BuiltData which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.06.02-01.03.10:677][783]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.02-01.03.10:698][783]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.02-01.03.10:698][783]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2025.06.02-01.03.10:700][783]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003008s)
+[2025.06.02-01.03.10:700][783]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003068s)
+[2025.06.02-01.03.10:723][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.06.02-01.03.10:731][783]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default
+[2025.06.02-01.03.10:733][783]LogPlayLevel: PIE: World Init took: (0.002046s)
+[2025.06.02-01.03.10:734][783]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.06.02-01.03.10:734][783]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.02-01.03.10:734][783]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.02-01.03.10:734][783]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.02-01.03.10:734][783]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.02-01.03.10:734][783]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.02-01.03.10:734][783]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.02-01.03.10:734][783]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.02-01.03.10:734][783]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.02-01.03.10:734][783]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.02-01.03.10:734][783]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.02-01.03.10:734][783]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.02-01.03.10:736][783]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.02-01.03.10:790][783]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.06.02-01.03.10:790][783]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.02-01.03.10:790][783]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.02-01.03.10:790][783]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.02-01.03.10:791][783]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.06.02-01.03.10:791][783]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.06.02-01.03.10:794][783]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.06.02-01.03.10:794][783]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.06.02-01.03.10:794][783]LogInit: FAudioDevice initialized with ID 12.
+[2025.06.02-01.03.10:794][783]LogAudio: Display: Audio Device (ID: 12) registered with world 'Minimal_Default'.
+[2025.06.02-01.03.10:794][783]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.06.02-01.03.10:797][783]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.06.02-01.03.10:798][783]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2025.06.02-03.03.10
+[2025.06.02-01.03.10:798][783]LogWorld: Bringing up level for play took: 0.001075
+[2025.06.02-01.03.10:801][783]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2025.06.02-01.03.10:804][783]LogBlueprintUserMessages: [BP_ThirdPersonGameMode_C_0] 0
+[2025.06.02-01.03.10:805][783]PIE: Server logged in
+[2025.06.02-01.03.10:806][783]PIE: Play in editor total start time 0.109 seconds.
+[2025.06.02-01.03.29:767][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.02-01.03.29:767][769]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2025.06.02-01.03.29:768][769]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2025.06.02-01.03.29:768][769]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.03.29:768][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.03.29:773][769]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.02-01.03.29:779][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.03.29:800][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.02-01.03.29:800][769]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.06.02-01.03.29:800][769]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.06.02-01.03.29:803][769]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.06.02-01.03.29:813][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.06.02-01.03.29:864][770]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2025.06.02-01.03.31:618][828]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2025.06.02-01.03.31:623][828]LogStreaming: Display: FlushAsyncLoading(671): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.02-01.03.31:624][828]LogStreaming: Display: ImportPackages: SkipPackage: /Game/StarterContent/Maps/Advanced_Lighting (0x1CBD19FFB0C15853) /Game/StarterContent/Maps/Advanced_Lighting (0x1CBD19FFB0C15853) - Skipping non mounted imported package /Game/StarterContent/Maps/Advanced_Lighting_BuiltData (0xC78F28A28853F930)
+[2025.06.02-01.03.31:627][828]LogChaosDD: Creating Chaos Debug Draw Scene for world Advanced_Lighting
+[2025.06.02-01.03.31:631][828]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting
+[2025.06.02-01.03.31:686][828]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.03.31:686][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.03.31:707][828]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.02-01.03.31:710][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.06.02-01.03.31:713][828]LogWorld: UWorld::CleanupWorld for Advanced_Lighting, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.03.31:714][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.03.31:736][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.06.02-01.03.31:801][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.06.02-01.03.31:803][828]LogStreaming: Display: ImportPackages: SkipPackage: /Game/StarterContent/Maps/Advanced_Lighting (0x1CBD19FFB0C15853) /Game/StarterContent/Maps/Advanced_Lighting (0x1CBD19FFB0C15853) - Skipping non mounted imported package /Game/StarterContent/Maps/Advanced_Lighting_BuiltData (0xC78F28A28853F930)
+[2025.06.02-01.03.31:807][828]LogAudio: Display: Audio Device (ID: 1) registered with world 'Advanced_Lighting'.
+[2025.06.02-01.03.31:807][828]LogChaosDD: Creating Chaos Debug Draw Scene for world Advanced_Lighting
+[2025.06.02-01.03.31:822][828]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.06.02-01.03.31:847][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.06.02-01.03.31:874][828]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.06.02-01.03.31:874][828]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.077ms to complete.
+[2025.06.02-01.03.31:929][828]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/StarterContent/Maps/Advanced_Lighting_BuiltData which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.06.02-01.03.31:929][828]LoadErrors: Warning: While trying to load package /Game/StarterContent/Maps/Advanced_Lighting, a dependent package /Game/StarterContent/Maps/Advanced_Lighting_BuiltData was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/StarterContent/Maps/Advanced_Lighting_BuiltData has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.06.02-01.03.31:929][828]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/StarterContent/Maps/Advanced_Lighting_BuiltData which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.06.02-01.03.33:374][899]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.02-01.03.33:390][899]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.02-01.03.33:390][899]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Advanced_Lighting
+[2025.06.02-01.03.33:394][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002799s)
+[2025.06.02-01.03.33:394][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting to /Game/StarterContent/Maps/UEDPIE_0_Advanced_Lighting.Advanced_Lighting (0.004491s)
+[2025.06.02-01.03.33:416][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.06.02-01.03.33:422][899]LogChaosDD: Creating Chaos Debug Draw Scene for world Advanced_Lighting
+[2025.06.02-01.03.33:423][899]LogPlayLevel: PIE: World Init took: (0.001659s)
+[2025.06.02-01.03.33:424][899]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.06.02-01.03.33:424][899]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.02-01.03.33:424][899]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.02-01.03.33:424][899]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.02-01.03.33:424][899]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.02-01.03.33:424][899]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.02-01.03.33:424][899]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.02-01.03.33:424][899]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.02-01.03.33:424][899]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.02-01.03.33:424][899]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.02-01.03.33:424][899]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.02-01.03.33:424][899]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.02-01.03.33:427][899]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.02-01.03.33:477][899]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.06.02-01.03.33:477][899]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.02-01.03.33:477][899]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.02-01.03.33:477][899]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.02-01.03.33:479][899]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.06.02-01.03.33:479][899]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.06.02-01.03.33:482][899]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.06.02-01.03.33:482][899]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.06.02-01.03.33:482][899]LogInit: FAudioDevice initialized with ID 13.
+[2025.06.02-01.03.33:482][899]LogAudio: Display: Audio Device (ID: 13) registered with world 'Advanced_Lighting'.
+[2025.06.02-01.03.33:482][899]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.06.02-01.03.33:485][899]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.06.02-01.03.33:485][899]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Advanced_Lighting.Advanced_Lighting up for play (max tick rate 0) at 2025.06.02-03.03.33
+[2025.06.02-01.03.33:486][899]LogWorld: Bringing up level for play took: 0.000817
+[2025.06.02-01.03.33:488][899]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2025.06.02-01.03.33:491][899]LogBlueprintUserMessages: [BP_ThirdPersonGameMode_C_0] 0
+[2025.06.02-01.03.33:491][899]PIE: Server logged in
+[2025.06.02-01.03.33:493][899]PIE: Play in editor total start time 0.103 seconds.
+[2025.06.02-01.04.15:817][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.02-01.04.15:817][561]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Advanced_Lighting
+[2025.06.02-01.04.15:817][561]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2025.06.02-01.04.15:817][561]LogWorld: UWorld::CleanupWorld for Advanced_Lighting, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.04.15:817][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.04.15:821][561]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.02-01.04.15:827][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.04.15:844][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.02-01.04.15:845][561]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.06.02-01.04.15:845][561]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.06.02-01.04.15:848][561]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.06.02-01.04.15:857][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.06.02-01.04.15:902][562]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2025.06.02-01.04.33:020][434]LogShaderCompilers: Display: ================================================
+[2025.06.02-01.04.33:020][434]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.06.02-01.04.33:020][434]LogShaderCompilers: Display: Total job queries 696, among them cache hits 71 (10.20%), DDC hits 318 (45.69%), Duplicates 5 (0.72%)
+[2025.06.02-01.04.33:020][434]LogShaderCompilers: Display: Tracking 620 distinct input hashes that result in 447 distinct outputs (72.10%)
+[2025.06.02-01.04.33:020][434]LogShaderCompilers: Display: RAM used: 279.89 KiB of 819.20 MiB budget. Usage: 0.03%
+[2025.06.02-01.04.33:020][434]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.06.02-01.04.33:020][434]LogShaderCompilers: Display: Shaders Compiled: 302
+[2025.06.02-01.04.33:020][434]LogShaderCompilers: Display: Jobs assigned 302, completed 302 (100%)
+[2025.06.02-01.04.33:020][434]LogShaderCompilers: Display: Average time worker was idle: 10.21 s
+[2025.06.02-01.04.33:020][434]LogShaderCompilers: Display: Time job spent in pending queue: average 8.81 s, longest 30.00 s
+[2025.06.02-01.04.33:020][434]LogShaderCompilers: Display: Job execution time: average 1.56 s, max 6.17 s
+[2025.06.02-01.04.33:020][434]LogShaderCompilers: Display: Job life time (pending + execution): average 10.38 s, max 31.25
+[2025.06.02-01.04.33:020][434]LogShaderCompilers: Display: Shader code size: average 8.796 KiB, min 2.703 KiB, max 31.207 KiB
+[2025.06.02-01.04.33:020][434]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 72.40 s
+[2025.06.02-01.04.33:020][434]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.24%
+[2025.06.02-01.04.33:020][434]LogShaderCompilers: Display: Jobs were issued in 302 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.06.02-01.04.33:020][434]LogShaderCompilers: Display: Average processing rate: 4.17 jobs/sec
+[2025.06.02-01.04.33:020][434]LogShaderCompilers: Display: Total thread time: 392.344 s
+[2025.06.02-01.04.33:020][434]LogShaderCompilers: Display: Total thread preprocess time: 14.118 s
+[2025.06.02-01.04.33:020][434]LogShaderCompilers: Display: Percentage time preprocessing: 3.60%
+[2025.06.02-01.04.33:020][434]LogShaderCompilers: Display: Effective parallelization: 5.42 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.06.02-01.04.33:022][434]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.06.02-01.04.33:022][434]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 4.86 sec, max 4.86 sec, min 4.86 sec)
+[2025.06.02-01.04.33:022][434]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 2.38 sec, max 2.39 sec, min 2.37 sec)
+[2025.06.02-01.04.33:022][434]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   49 times, average 2.33 sec, max 3.01 sec, min 1.10 sec)
+[2025.06.02-01.04.33:022][434]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    2 times, average 1.93 sec, max 1.93 sec, min 1.92 sec)
+[2025.06.02-01.04.33:022][434]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.60 sec, max 1.60 sec, min 1.60 sec)
+[2025.06.02-01.04.33:022][434]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.06.02-01.04.33:022][434]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 29.04% of total time (compiled   49 times, average 2.33 sec, max 3.01 sec, min 1.10 sec)
+[2025.06.02-01.04.33:022][434]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.10% of total time (compiled   51 times, average 1.39 sec, max 2.38 sec, min 0.37 sec)
+[2025.06.02-01.04.33:022][434]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.13% of total time (compiled   61 times, average 0.91 sec, max 1.92 sec, min 0.33 sec)
+[2025.06.02-01.04.33:022][434]LogShaderCompilers: Display:                                                 FLumenCardPS - 13.88% of total time (compiled   51 times, average 1.07 sec, max 1.48 sec, min 0.53 sec)
+[2025.06.02-01.04.33:022][434]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.17% of total time (compiled   51 times, average 0.94 sec, max 1.82 sec, min 0.47 sec)
+[2025.06.02-01.04.33:022][434]LogShaderCompilers: Display: === Material stats ===
+[2025.06.02-01.04.33:022][434]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.06.02-01.04.33:022][434]LogShaderCompilers: Display: Materials Translated:    222
+[2025.06.02-01.04.33:022][434]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2025.06.02-01.04.33:022][434]LogShaderCompilers: Display: Material Translation Only: 0.10 s (50%)
+[2025.06.02-01.04.33:022][434]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.06.02-01.04.33:022][434]LogShaderCompilers: Display: Material Cache Hits: 24 (11%)
+[2025.06.02-01.04.33:022][434]LogShaderCompilers: Display: ================================================
+[2025.06.02-01.04.50:380][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.06.02-01.04.51:820][233]LogSlate: Window 'Save Content' being destroyed
+[2025.06.02-01.04.51:863][233]LogStreaming: Display: FlushAsyncLoading(673): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.02-01.04.51:873][233]LogLinker: Display: [AssetLog] C:\Users\delet\Documents\Unreal Projects\Bakalarka_Denny_Ezri_Sofi\BakalarskyProjekt\Content\ThirdPerson\Blueprints\zatialNepotrebujeme\BP_ThirdPersonCharacter_Child.uasset: CreateExport: Failed to load Parent for Function /Game/ThirdPerson/Blueprints/zatialNepotrebujeme/BP_ThirdPersonCharacter_Child.BP_ThirdPersonCharacter_Child_C:InpActEvt_E_K2Node_InputKeyEvent_0; removing parent information, but keeping function
+[2025.06.02-01.04.51:999][233]LogChaosDD: Creating Chaos Debug Draw Scene for world gameplaymechanics
+[2025.06.02-01.04.52:025][233]LogAnimation: Warning: Setting an additive animation (sahrk_Anim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.BP_shark_C_2.CharacterMesh0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.06.02-01.04.52:025][233]LogAnimation: Warning: Setting an additive animation (sahrk_Anim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.BP_shark_C_2.CharacterMesh0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.06.02-01.04.52:106][233]LogAssetEditorSubsystem: Opening Asset editor for World /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics
+[2025.06.02-01.04.52:165][233]LogWorld: UWorld::CleanupWorld for Advanced_Lighting, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.04.52:165][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.04.52:196][233]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.02-01.04.52:201][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.06.02-01.04.52:204][233]LogWorld: UWorld::CleanupWorld for gameplaymechanics, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.04.52:208][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.04.52:244][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.06.02-01.04.52:268][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.06.02-01.04.52:400][233]LogAudio: Display: Audio Device (ID: 1) registered with world 'gameplaymechanics'.
+[2025.06.02-01.04.52:400][233]LogChaosDD: Creating Chaos Debug Draw Scene for world gameplaymechanics
+[2025.06.02-01.04.52:465][233]LogAnimation: Warning: Setting an additive animation (sahrk_Anim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.BP_shark_C_2.CharacterMesh0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.06.02-01.04.52:465][233]LogAnimation: Warning: Setting an additive animation (sahrk_Anim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/_BachelorsProject/Levels/gameplaymechanics.gameplaymechanics:PersistentLevel.BP_shark_C_2.CharacterMesh0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.06.02-01.04.52:599][233]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.06.02-01.04.52:658][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.06.02-01.04.52:684][233]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.06.02-01.04.52:685][233]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.254ms to complete.
+[2025.06.02-01.05.03:114][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.06.02-01.05.03:246][800]LogStall: Shutdown...
+[2025.06.02-01.05.03:246][800]LogStall: Shutdown complete.
+[2025.06.02-01.05.03:400][800]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.06.02-01.05.03:400][800]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.03:400][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.03:516][800]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.03:516][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.03:636][800]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.06.02-01.05.03:637][800]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.03:637][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.03:764][800]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.06.02-01.05.03:764][800]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.03:764][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.03:839][800]LogSlate: Window 'CharacterSwichingPlayerController' being destroyed
+[2025.06.02-01.05.03:867][800]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.06.02-01.05.03:867][800]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.03:867][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.03:993][800]LogSlate: Window 'Content Browser' being destroyed
+[2025.06.02-01.05.04:023][800]LogSlate: Window 'BakalarskyProjekt - Unreal Editor' being destroyed
+[2025.06.02-01.05.04:025][800]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.06.02-01.05.04:257][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.06.02-01.05.04:298][800]Cmd: QUIT_EDITOR
+[2025.06.02-01.05.04:298][801]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.06.02-01.05.04:315][801]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.06.02-01.05.04:315][801]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.06.02-01.05.04:316][801]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.06.02-01.05.04:332][801]LogWorld: UWorld::CleanupWorld for gameplaymechanics, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.04:333][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.04:361][801]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.06.02-01.05.04:362][801]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.06.02-01.05.04:402][801]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.04:402][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.04:406][801]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.04:406][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.04:409][801]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.04:409][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.04:413][801]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.04:413][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.04:416][801]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.04:416][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.04:419][801]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.04:419][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.04:423][801]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.04:423][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.04:426][801]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.04:426][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.04:429][801]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.04:429][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.04:432][801]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.04:432][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.04:436][801]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.04:436][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.04:439][801]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.04:439][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.04:442][801]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.04:442][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.04:445][801]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.04:445][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.04:448][801]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.04:448][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.04:452][801]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.04:452][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.04:455][801]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.04:455][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.04:458][801]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.04:458][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.04:462][801]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.04:462][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.04:465][801]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.04:465][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.04:468][801]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.04:468][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.04:471][801]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.04:471][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.04:475][801]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.04:475][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.04:477][801]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.04:477][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.04:480][801]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.04:480][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.04:483][801]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.04:483][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.04:486][801]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.04:486][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.04:490][801]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.04:490][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.04:493][801]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.04:493][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.04:496][801]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.04:496][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.04:498][801]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.04:498][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.04:502][801]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-01.05.04:503][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-01.05.04:507][801]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.06.02-01.05.04:509][801]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.06.02-01.05.04:509][801]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.06.02-01.05.04:509][801]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.06.02-01.05.05:427][801]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.06.02-01.05.05:427][801]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.06.02-01.05.05:427][801]LogAudio: Display: Audio Device unregistered from world 'gameplaymechanics'.
+[2025.06.02-01.05.05:427][801]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.06.02-01.05.05:428][801]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.06.02-01.05.05:432][801]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.06.02-01.05.05:464][801]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.06.02-01.05.05:464][801]LogAudio: Display: Audio Device Manager Shutdown
+[2025.06.02-01.05.05:469][801]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.06.02-01.05.05:469][801]LogExit: Preparing to exit.
+[2025.06.02-01.05.05:508][801]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2025.06.02-01.05.05:516][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.02-01.05.05:517][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.02-01.05.05:526][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.02-01.05.05:527][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.02-01.05.05:527][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.02-01.05.05:527][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.02-01.05.05:527][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.02-01.05.05:527][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.02-01.05.05:527][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.02-01.05.05:527][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.02-01.05.05:527][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.02-01.05.05:527][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.02-01.05.05:528][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.02-01.05.05:528][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.02-01.05.05:528][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.02-01.05.05:528][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.02-01.05.05:528][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.02-01.05.05:528][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.02-01.05.05:529][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.02-01.05.05:529][801]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.02-01.05.05:529][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.02-01.05.06:620][801]LogEditorDataStorage: Deinitializing
+[2025.06.02-01.05.06:866][801]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.06.02-01.05.06:921][801]LogExit: Editor shut down
+[2025.06.02-01.05.06:934][801]LogExit: Transaction tracking system shut down
+[2025.06.02-01.05.07:413][801]LogExit: Object subsystem successfully closed.
+[2025.06.02-01.05.07:427][801]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.06.02-01.05.07:743][801]LogMemoryProfiler: Shutdown
+[2025.06.02-01.05.07:743][801]LogNetworkingProfiler: Shutdown
+[2025.06.02-01.05.07:743][801]LoadingProfiler: Shutdown
+[2025.06.02-01.05.07:743][801]LogTimingProfiler: Shutdown
+[2025.06.02-01.05.08:677][801]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.06.02-01.05.08:710][801]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.06.02-01.05.08:710][801]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4D1730B8-456C-A1DD-E5A4-5EBB3E26F78F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=8cc94359461142579c9aba8a26ab8ad1%7C7803f12beaf94aff9e3a842cf44f005c%7Ca4dab33a-8db1-47ce-a72a-aeeff1e13ec1&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.06.02-01.05.09:257][801]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.06.02-01.05.09:257][801]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.06.02-01.05.09:257][801]LogNFORDenoise: NFORDenoise function shutting down
+[2025.06.02-01.05.09:257][801]RenderDocPlugin: plugin has been unloaded.
+[2025.06.02-01.05.09:272][801]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.06.02-01.05.09:272][801]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.06.02-01.05.09:272][801]LogPakFile: Destroying PakPlatformFile
+[2025.06.02-01.05.10:705][801]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.06.02-01.05.10:781][801]LogExit: Exiting.
+[2025.06.02-01.05.10:836][801]Log file closed, 06/02/25 03:05:10
