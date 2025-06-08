@@ -16,7 +16,14 @@
 				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/GUI/PauseMenu/WBP_PauseMenu.uasset",
 				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/GUI/MainMenu/WBP_MainMenu.uasset",
 				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/GameCore/BP_GameInstance.uasset",
-				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/GUI/SettingsMenu/WBP_SettingsMenu.uasset"
+				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/GUI/SettingsMenu/WBP_SettingsMenu.uasset",
+				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/StarterContent/Props/SM_Door.uasset",
+				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/SpecificDoors/BP_LABdoor1.uasset",
+				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/PUZZLE/box/BP_movableBoxik.uasset",
+				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/Turret/BP_Turret.uasset",
+				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/StarterContent/Particles/P_Sparks.uasset",
+				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/StarterContent/Props/SM_Stairs.uasset",
+				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/ThirdPerson/Input/IMC_Default.uasset"
 			]
 		}
 	]
