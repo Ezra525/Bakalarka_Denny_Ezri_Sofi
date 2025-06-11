@@ -5,11 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Levels/gameplaymechanics.umap",
-				"C:/Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Materials/M_NoiseBase.uasset",
-				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Materials/M_NoiseBase.uasset",
-				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/GUI/MainMenu/LVL_MainMenu.umap",
-				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Levels/gameplaymechanics.umap",
 				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Levels/gameplaymechanics.umap",
 				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset",
@@ -28,7 +23,18 @@
 				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/Turret/BP_Turret.uasset",
 				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/StarterContent/Particles/P_Sparks.uasset",
 				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/StarterContent/Props/SM_Stairs.uasset",
-				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/ThirdPerson/Input/IMC_Default.uasset"
+				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Levels/_GENERATED/delet/Box_4313A0EB.uasset",
+				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/soundEffects/large-underwater-explosion-190270_Cue.uasset",
+				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Levels/_GENERATED/delet/Path_F9D21E6C.uasset",
+				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Levels/Events/gameplayMechanics/BP_StartStaircaseFall.uasset",
+				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Levels/Events/gameplayMechanics/BP_StaircaseDebree.uasset",
+				"C:/Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Levels/gameplaymechanics.umap",
+				"C:/Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Materials/M_NoiseBase.uasset",
+				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Materials/M_NoiseBase.uasset",
+				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/GUI/MainMenu/LVL_MainMenu.umap",
+				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Levels/gameplaymechanics.umap"
 			]
 		}
 	]
