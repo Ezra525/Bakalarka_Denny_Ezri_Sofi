@@ -6,6 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/BasicShapes/Cube.uasset",
+				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Materials/M_NoiseBase.uasset",
+				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/GUI/MainMenu/LVL_MainMenu.umap",
+				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Levels/gameplaymechanics.umap",
+				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/GUI/SettingsMenu/WBP_SettingsMenu.uasset",
+				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/GUI/MainMenu/WBP_MainMenu.uasset",
+				"C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Assets/Content/gltf/M_Default.uasset",
 				"C:/Users/rabbit/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Levels/gameplaymechanics.umap",
 				"C:/Users/rabbit/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/Fab/Yellow_submarine_-_Beatles/blanc.uasset",
 				"C:/Users/rabbit/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/Fab/PROTEUS_-_Fantastic_Voyage__1966_/Blanc_Corps.uasset",
@@ -129,10 +135,7 @@
 				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/AI/fish/BP_Trailer_Fish.uasset",
 				"C:/Users/delet/Documents/Unreal Projects/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Levels/AI_Factory.umap",
 				"C:/Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Levels/gameplaymechanics.umap",
-				"C:/Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Materials/M_NoiseBase.uasset",
-				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Materials/M_NoiseBase.uasset",
-				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Blueprints/GUI/MainMenu/LVL_MainMenu.umap",
-				"C:/Users/Dell/Desktop/Ez/_VS/Bakalar/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Levels/gameplaymechanics.umap"
+				"C:/Users/denir/Desktop/VSmU/2 rocnik/Bakalarka_Denny_Ezri_Sofi/BakalarskyProjekt/Content/_BachelorsProject/Assets/Materials/M_NoiseBase.uasset"
 			]
 		}
 	]
